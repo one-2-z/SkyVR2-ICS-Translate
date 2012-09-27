@@ -8,7 +8,7 @@
     <string name="button_sort_by_size">Сортировать по размеру</string>
     <string name="button_sort_by_date">Сортировать по дате</string>
     <string name="download_queued">В очереди</string>
-    <string name="download_running">В процессе</string>
+    <string name="download_running">В процессе</string>    
     <string name="download_success">Завершено</string>
     <string name="download_error">Не удалось</string>
     <string name="dialog_title_not_available">Не удалось загрузить</string>
