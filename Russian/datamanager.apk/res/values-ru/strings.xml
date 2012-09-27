@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SUPPORTED_GALLERY_STYLE">TRUE</string>
+    <string name="IS_FOTA_ENABLE">TRUE</string>
+    <string name="DIARY_VERSION">0</string>
+    <string name="MEMORIAL_VERSION">0</string>
+    <string name="SCHEDULE_VERSION">3</string>
+    <string name="IS_INTERNAL_SD_ENABLE">TRUE</string>
+    <string name="IS_EXTERNAL_SD_ENABLE">TRUE</string>
+    <string name="USB_FILE_TRANSFER_MAX_SIZE">7168</string>
+    <string name="WIFI_FILE_TRANSFER_MAX_SIZE">20480</string>
+    <string name="PHOTO_FUNC_VER">0</string>
+    <string name="SMS_MULTI_SEND">TRUE</string>
+    <string name="MEMO_VERSION">3</string>
+    <string name="DIALOG_STYLE">1</string>
+    <string name="WIDGET_STYLE">2</string>
+    <string name="SMS_SENDER_EDITABLE">FALSE</string>
+    <string name="hello">Привет, Мир! Тест</string>
+    <string name="app_name">DataManager</string>
+    <string name="CONNECT_DM">DataManager подключен</string>
+    <string name="CONNECTED_DM">DataManager отключен</string>
+    <string name="DIALOG_TITLE">Вопрос?</string>
+    <string name="DIALOG_DM">Вы действительно хотите отключить Data Manager?</string>
+    <string name="NOTI_EX_DM">Выберите для отключения DataManager</string>
+    <string name="CONNECTED_BG_DM">Подключение Data Manager.</string>
+    <string name="YES_DM">Ок</string>
+    <string name="NO_DM">Отмена</string>
+    <string name="FAILED_CONNECT_DM">Ошибка подключения к Data Manager. После закрытия этого окна нажмите кнопку Подключить в Data Manager Plus 4.</string>
+    <string name="OK_DM">Ок</string>
+    <string name="CONNECTING">Подключение</string>
+    <string name="WIFI_IS_NOT_READY">Доступно только через Wi-Fi.</string>
+    <string name="WIFI_WAITING_DM">Введите IP адрес в Data Manager Plus 4.</string>
+    <string name="WIFI_CONNECTED_DM">DataManager подключен</string>
+    <string name="WIFI_NOTI_WAITING">DataManager ожидает подключения</string>
+    <string name="WIFI_NOTI_CONNECTED">DataManager подключен</string>
+    <string name="WIFI_BTN_CLOSE_WAITING">Закрыть</string>
+    <string name="WIFI_BTN_CLOSE_CONNECTED">Отключить</string>
+    <string name="WIFI_NOTI_PREFIX">Подключено через Wi-Fi</string>
+    <string name="WIFI_ALREADY_USB_CONNECTED">DataManager уже подключен по USB.</string>
+    <string name="WIFI_DIALOG_DM">вы действительно хотите завершить Data Manager?</string>
+    <string name="DM_CLOSED_FOTA">"Data Manager остановлнен, потому что 
+синхронизация была выключена."</string>
+    <string name="WIFI_FAILED_CONNECT_DM">"Ошибка подключения. 
+Пожалуйста, переподключите Data Manager."</string>
+</resources>

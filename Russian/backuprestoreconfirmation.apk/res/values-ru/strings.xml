@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Полное сохранение</string>
+    <string name="restore_confirm_title">Полное восстановление</string>
+    <string name="backup_confirm_text">"Получен запрос на сохранение данных на подключенный компьютер. Хотите продолжить?
+
+Отмените, если вы не делали запрос сами."</string>
+    <string name="allow_backup_button_label">Сохранить мои данные</string>
+    <string name="deny_backup_button_label">Не сохранять</string>
+    <string name="restore_confirm_text">"Получен запрос на восстановление данных с подключенного компьютера. Хотите продолжить?
+
+Отмените, если вы не делали запрос сами. Все данные на телефоне будут заменены!"</string>
+    <string name="allow_restore_button_label">Восстановить мои данные</string>
+    <string name="deny_restore_button_label">Не восстанавливать</string>
+    <string name="current_password_text">Пожалуйста, введите пароль сохранения ниже:</string>
+    <string name="device_encryption_restore_text">Введите ключ шифрования устройства ниже.</string>
+    <string name="device_encryption_backup_text">Введите ключ шифрования устройства ниже. Он также будет использоваться для шифрования архива.</string>
+    <string name="backup_enc_password_text">Пожалуйста, введите пароль для шифрования сохраненных данных. Чтобы использовать текущий пароль, оставьте поле пустым:</string>
+    <string name="backup_enc_password_optional">Введите пароль ниже если вы хотите зашифровать сохраненные данные:</string>
+    <string name="restore_enc_password_text">Введите пароль ниже если восстанавливаемые данные зашифрованы:</string>
+    <string name="toast_backup_started">Сохранение...</string>
+    <string name="toast_backup_ended">Сохранение закончено</string>
+    <string name="toast_restore_started">Восстановление...</string>
+    <string name="toast_restore_ended">Восстановление закончено</string>
+    <string name="toast_timeout">Таймаут операции</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nfc Сервис</string>
+    <string name="nfcUserLabel">Nfc</string>
+    <string name="inbound_me_profile_title">Контак получен через NFC</string>
+    <string name="inbound_me_profile_text">Нажмите чтобы сохранить как контакт</string>
+    <string name="outbound_me_profile_title">NFC взаимодействие успешно</string>
+    <string name="outbound_me_profile_text">Нажмите чтобы добавить информацию о контакте</string>
+    <string name="accessibility_nfc_enabled">NFC eвключен.</string>
+    <string name="touch">Коснитесь для передачи</string>
+</resources>

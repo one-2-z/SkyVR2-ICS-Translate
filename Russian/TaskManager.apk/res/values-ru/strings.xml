@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="title_main">Task Manager</string>
+    <string name="title_widget">Task Manager</string>
+    <string name="title_running">Запущенные</string>
+    <string name="title_system">Системные</string>
+    <string name="title_tip">Советы</string>
+    <string name="close_app">Закрыть</string>
+    <string name="close_all_app">Закрыть все</string>
+    <string name="close_forced">Завершить</string>
+    <string name="close_normal">Закрыть</string>
+    <string name="ram">ОЗУ</string>
+    <string name="cpu">ЦП</string>
+    <string name="internal_memory">Внутренняя память</string>
+    <string name="sd_card">SD-карта</string>
+    <string name="insert_external_disk">Пожалуйста, вставьте SD-карту</string>
+    <string name="option_protect_list">Защита закончилась</string>
+    <string name="option_view_type">Сортировать по</string>
+    <string name="total_program">Всего %1$d приложений</string>
+    <string name="mb">Мб</string>
+    <string name="nothing_running_program">Нет запущенных программ.</string>
+    <string name="nothing_running_program_except_protect">Кроме защищенных нет запущенных программ.</string>
+    <string name="use_tip1">"Запущенные приложения
+"</string>
+    <string name="use_tip2"><li>"Минимизировать зазгрузку системы закрытием программ с высокой нагрузкой на ЦП.
+
+"</li><li>"Организуйте программы закрывая по одной или все сразу.
+
+"</li><li>"Регулярно обновляемые программы такие как новости/погода/баланс могут быть защищены от закрытия.
+
+"</li><li>"Защищенные программы находятся в отдельном списке.
+
+"</li><li>"Некоторые программы могут быть непоказаны в списке запущенных.
+"</li></string>
+    <string name="use_tip3">"Системные
+"</string>
+    <string name="use_tip4">"1. ЦП
+
+"<li>"Высокое использование ЦП  увеличивает нагрузку на батарею и загрузку системы.
+
+"</li><li>"Программы, загруженные из неизвестных источников могут увеличить нагрузку на ЦП.
+
+"</li>"2. Внутренняя/Внешняя память
+
+"<li>"Графики показывают использование внутренней и внешней памяти, которая может быть использована при управлении данными.
+
+"</li>"3. Сеть
+
+"<li>"Показывает текущее состояние сети.
+
+"</li><li>"Массивные использования сети требует высокого потребления батарей. Не рекомендуется использовать регулярные обновления программы, такие как Wi-Fi соединения и автоматическая синхронизация.
+
+"</li><li>Показать состояние передачи данных через сеть.</li></string>
+    <string name="zero">0</string>
+    <string name="protect_end">Защитить</string>
+    <string name="protect_end_detail">Исключить закрытие</string>
+    <string name="status">Состояние</string>
+    <string name="unprotect">Отменить защиту</string>
+    <string name="cancel">отмена</string>
+    <string name="done">готово</string>
+    <string name="network">Сеть</string>
+    <string name="network_up">Отправить</string>
+    <string name="network_down">Получить</string>
+    <string name="option_select_all">Выбрать все</string>
+    <string name="option_deselect_all">Отменить все</string>
+    <string name="sky_recent_title">Последний</string>
+    <string name="sky_recent_no_recent_tasks">Нет последних приложений</string>
+    <string name="sky_recent_task_manager">Task Manager</string>
+    <string name="widget_total_program1">Всего</string>
+    <string name="widget_total_program2">"  Приложений"</string>
+    <string name="running_item">запущенные</string>
+    <string name="no_item_selected">Нет выбранных элементов.</string>
+    <string name="widget_kill_no_tasks">Нет приложений для закрытия</string>
+    <string name="widget_kill_all_tasks">Завершить все кроме защищенных программ</string>
+    <string name="widget_kill_all_tasks_except_protected_item">Все программы завершены кроме защищенных.</string>
+    <string name="number_of_item_selected">Выбрано: %1$d</string>
+</resources>

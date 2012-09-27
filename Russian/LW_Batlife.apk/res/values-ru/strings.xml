@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Индикатор</string>
+    <string name="description">Цвет индикатора будет изменяться в зависимости от заряда</string>
+</resources>

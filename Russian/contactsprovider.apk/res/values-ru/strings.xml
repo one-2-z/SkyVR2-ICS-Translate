@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sharedUserLabel">Системные приложения Андроид</string>
+    <string name="app_label">Хранилище контактов</string>
+    <string name="provider_label">Контакты</string>
+    <string name="upgrade_msg">Обновление базы контактов.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Обновление контактов требует больше памяти</string>
+    <string name="upgrade_out_of_memory_notification_title">Обновление хранилища контактов</string>
+    <string name="upgrade_out_of_memory_notification_text">Выберите для завершения обновления.</string>
+    <string name="default_directory">Контакты</string>
+    <string name="local_invisible_directory">Другой</string>
+    <string name="read_write_all_voicemail_label">Доступ к голосовым сообщениям</string>
+    <string name="read_write_all_voicemail_description">Разрешить приложению сохранять и извлекать все голосовые сообщения, к которым есть доступ на этом устройстве.</string>
+    <string name="voicemail_from_column">"Голосовая почта от "</string>
+</resources>

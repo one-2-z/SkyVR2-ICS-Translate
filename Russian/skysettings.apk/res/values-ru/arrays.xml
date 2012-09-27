@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category">
+        <item>Лаунчер</item>
+        <item>Поиск</item>
+        <item>Браузер</item>
+        <item>Электронная почта</item>
+        <item>Мультимедия</item>
+        <item>Вызов</item>
+        <item>Разное</item>
+    </string-array>
+    <string-array name="arrivebell_items_1">
+        <item>Нет мелодии</item>
+        <item>SKY</item>
+        <item>По умолчанию Android</item>
+        <item>Память</item>
+        <item>Загрузить мелодию</item>
+    </string-array>
+    <string-array name="arrivebell_items_2">
+        <item>Нет мелодии</item>
+        <item>SKY</item>
+        <item>По умолчанию Android</item>
+        <item>Память</item>
+    </string-array>
+    <string-array name="sky_bell_entries">
+        <item>Beep Classic</item>
+        <item>Beep Dreamy</item>
+        <item>Beep Jazzy</item>
+        <item>Beep Simple</item>
+        <item>Before the Dawn</item>
+        <item>Beyond the Star</item>
+        <item>Catwalk</item>
+        <item>Confession</item>
+        <item>Default Ring</item>
+        <item>Emotional wave</item>
+        <item>Enigmatic</item>
+        <item>Feel better</item>
+        <item>Forest</item>
+        <item>Happy Sky Land</item>
+        <item>"Heaven's Morning"</item>
+        <item>Hello there</item>
+        <item>Let me out</item>
+        <item>Listen To Me</item>
+        <item>Maple Road</item>
+        <item>Marching Band</item>
+        <item>Melody Lake</item>
+        <item>Round World</item>
+        <item>Sunset Hill</item>
+        <item>Sweet Imagine</item>
+        <item>Tea Time</item>
+        <item>Toy Train</item>
+        <item>Traveling Butterfly</item>
+        <item>Walking in the clouds</item>
+        <item>Waltz with Birds</item>
+        <item>Welcome Party</item>
+        <item>World Of Network</item>
+    </string-array>
+    <string-array name="no_bell_entries">
+        <item>Тихо</item>
+        <item>Неизвестный рингтон</item>
+    </string-array>
+    <string-array name="sound_list_entries">
+        <item>Мелодия/Вибрация</item>
+        <item>Эффекты прикосновения</item>
+        <item>Эффект</item>
+    </string-array>
+    <string-array name="arrivebell_notikind_items">
+        <item>Выкл</item>
+        <item>Вибрация</item>
+        <item>Тихо</item>
+    </string-array>
+    <string-array name="arrivebell_notiperiod_items">
+        <item>Продолжительная</item>
+        <item>Только 5 сек</item>
+        <item>Только 10 сек</item>
+        <item>Только 15 сек</item>
+    </string-array>
+    <string-array name="arrivebell_vibpattern_items">
+        <item>Обычная</item>
+        <item>Удлинняется</item>
+        <item>Укорачивается</item>
+        <item>Длиннее->Короче</item>
+        <item>Короче->Длиннее</item>
+    </string-array>
+    <string-array name="toucheffect_items">
+        <item>Нет</item>
+        <item>Звук</item>
+        <item>Вибрация</item>
+        <item>Вибр./Звук</item>
+    </string-array>
+    <string-array name="effect_dialtone_items">
+        <item>Тихо</item>
+        <item>Synthesizer</item>
+        <item>Classic</item>
+        <item>Clarinet</item>
+        <item>Harp</item>
+        <item>Digital</item>
+        <item>Do-Re-Mi</item>
+        <item>Lilt</item>
+        <item>Voice</item>
+    </string-array>
+    <string-array name="effect_dialtone_preplay_items_target">
+        <item>null</item>
+        <item>/system/media/audio/keytone/electric/electric_1.ogg</item>
+        <item>/system/media/audio/keytone/digital/digital_1.ogg</item>
+        <item>/system/media/audio/keytone/clarinet/clarinet_1.ogg</item>
+        <item>/system/media/audio/keytone/harp/harp_1.ogg</item>
+        <item>/system/media/audio/keytone/gayageum/gayageum_1.ogg</item>
+        <item>/system/media/audio/keytone/doremi/doremi_1.ogg</item>
+        <item>/system/media/audio/keytone/drumset/drumset_1.ogg</item>
+        <item>/system/media/audio/keytone/voice_eng/voice_eng_1.ogg</item>
+    </string-array>
+    <string-array name="effect_dialbox_items">
+        <item>Тихо</item>
+        <item>Clean</item>
+        <item>Clarinet</item>
+        <item>Digital</item>
+        <item>Harp</item>
+        <item>Xylophone</item>
+        <item>Bubble</item>
+        <item>Chime</item>
+    </string-array>
+    <string-array name="effect_dialbox_preplay_items_target">
+        <item>null</item>
+        <item>/system/media/audio/messagebox/clean.ogg</item>
+        <item>/system/media/audio/messagebox/clarinet.ogg</item>
+        <item>/system/media/audio/messagebox/digital.ogg</item>
+        <item>/system/media/audio/messagebox/harp.ogg</item>
+        <item>/system/media/audio/messagebox/xylophone.ogg</item>
+        <item>/system/media/audio/messagebox/Touch_Pop_1.ogg</item>
+        <item>/system/media/audio/messagebox/chime.ogg</item>
+    </string-array>
+    <string-array name="effect_callconnect_items">
+        <item>Тихо</item>
+        <item>Sound1</item>
+        <item>Sound2</item>
+    </string-array>
+    <string-array name="effect_callconnect_preplay_items_target">
+        <item>null</item>
+        <item>/system/media/audio/callconnect/sound1.ogg</item>
+        <item>/system/media/audio/callconnect/sound2.ogg</item>
+    </string-array>
+    <string-array name="effect_vtcallconnect_preplay_items_target">
+        <item>null</item>
+        <item>/system/media/audio/callconnect_vt/sound1_vt.ogg</item>
+        <item>/system/media/audio/callconnect_vt/sound2_vt.ogg</item>
+    </string-array>
+    <string-array name="effect_lowbattery_items">
+        <item>Mute</item>
+        <item>Beep1</item>
+        <item>Beep2</item>
+        <item>Beep3</item>
+        <item>Cute</item>
+        <item>Lack</item>
+    </string-array>
+    <string-array name="effect_lowbattery_preplay_items_target">
+        <item>null</item>
+        <item>/system/media/audio/lowbattery/beep1.ogg</item>
+        <item>/system/media/audio/lowbattery/beep2.ogg</item>
+        <item>/system/media/audio/lowbattery/Touch_Gesture_2_1_101018.ogg</item>
+        <item>/system/media/audio/lowbattery/batt_low_4--witty.ogg</item>
+        <item>/system/media/audio/lowbattery/voice_kor.ogg</item>
+    </string-array>
+    <string-array name="qsound_setting_equalizertext">
+        <item>Bass Enhance</item>
+        <item>Mid Enhance</item>
+        <item>Treble Enhance</item>
+        <item>Acoustic</item>
+        <item>Blues</item>
+        <item>Classical</item>
+        <item>Country</item>
+        <item>Dance</item>
+        <item>Disco</item>
+        <item>Grunge</item>
+        <item>Jazz</item>
+        <item>Live</item>
+        <item>Metal</item>
+        <item>Pop</item>
+        <item>Rap</item>
+        <item>Reggae</item>
+        <item>Rock</item>
+        <item>Rocken Roll</item>
+        <item>Speech Vocal</item>
+        <item>Swing</item>
+        <item>Techno</item>
+        <item>Urban</item>
+        <item>Normal</item>
+    </string-array>
+    <string-array name="sky_setting_menu_text">
+        <item>Мелодии/Громк.</item>
+        <item>Звуки</item>
+        <item>Экран</item>
+        <item>Настройки вызова</item>
+        <item>Приложения</item>
+        <item>Системные</item>
+        <item>Лаунчер по умолчанию</item>
+        <item>Программы по умолчанию</item>
+    </string-array>
+    <string-array name="password_listview_items">
+        <item>Заблокировать телефон</item>
+        <item>Изменить пароль</item>
+        <item>Использовать шаблон</item>
+        <item>Показать шаблон</item>
+        <item>Использовать виброотклик</item>
+        <item>Установить шаблон</item>
+        <item>Знак</item>
+    </string-array>
+</resources>

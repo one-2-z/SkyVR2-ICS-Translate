@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Выбрать обои из</string>
+    <string name="tab_title_gallery">Галерея</string>
+    <string name="tab_title_wallpaper">Обои</string>
+    <string name="tab_title_livewallpaper">Живые обои</string>
+    <string name="tab_title_download">Загруженные обои</string>
+    <string name="live_wallpaper_empty">Нет живых обоев.</string>
+    <string name="no_sd_card">SD-карта отсутствует. Пожалуйста, вставте SD-карту.</string>
+    <string name="activity_init_failed">Ошибка инициализации.</string>
+    <string name="data_is_not_exist">Нет сохраненного содержимого</string>
+    <string name="no_download_wallpaper">Нет обоев.</string>
+    <string name="no_gallery_wallpaper">В галерее нет изображений.</string>
+    <string name="usb_used_unable_database">Используется как USB-хранилище. Не удается обновить базу данных.</string>
+</resources>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Счастливый</item>
+        <item>Грустный</item>
+        <item>Подмигивает</item>
+        <item>Высунул язык</item>
+        <item>Удивлен</item>
+        <item>Целует</item>
+        <item>Кричит</item>
+        <item>Крутой</item>
+        <item>Денежный рот</item>
+        <item>Нога во рту</item>
+        <item>Смущенный</item>
+        <item>Ангел</item>
+        <item>Нерешительный</item>
+        <item>Плачет</item>
+        <item>Рот на замке</item>
+        <item>Смеется</item>
+        <item>В шоке</item>
+    </string-array>
+    <string-array name="array_week">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="popup_menu_alert_setting_in_call">
+        <item>Тихо</item>
+        <item>Низкая громкость</item>
+        <item>Вибрация</item>
+    </string-array>
+    <string-array name="popup_menu_alert_setting">
+        <item>Тихо</item>
+        <item>1 Раз</item>
+        <item>Напоминания</item>
+    </string-array>
+    <string-array name="chetting_style">
+        <item>Обычный</item>
+        <item>Молочный</item>
+        <item>Веселый</item>
+        <item>Бумага</item>
+        <item>PПоп-арт</item>
+    </string-array>
+    <string-array name="popup_menu_background_setting">
+        <item>Галерея</item>
+        <item>Цвет</item>
+        <item>Шаблон</item>
+    </string-array>
+    <string-array name="popup_menu_pattern_setting">
+        <item>Graph paper</item>
+        <item>Grey polka dots</item>
+        <item>Navy cellophan</item>
+        <item>Yellow scarf</item>
+        <item>Blue heart</item>
+        <item>Mono Vandana</item>
+        <item>Sweet-candy</item>
+        <item>Basswood</item>
+        <item>Choco-felt</item>
+        <item>Brown fabric</item>
+        <item>Green daisy</item>
+        <item>Check brownie</item>
+        <item>Oakwood</item>
+    </string-array>
+    <string-array name="popup_menu_gradation_setting">
+        <item>Нет</item>
+        <item>Горизонтальный</item>
+        <item>Вертикальный</item>
+        <item>Диагональный</item>
+    </string-array>
+    <string-array name="gallery_style">
+        <item>Центр</item>
+        <item>Проверка</item>
+        <item>Удлинить</item>
+    </string-array>
+    <string-array name="msg_lock_menu_setting">
+        <item>Нет</item>
+        <item>Рисунок</item>
+        <item>Пароль</item>
+    </string-array>
+    <string-array name="auto_retrieval_setting">
+        <item>Внутреннее автополучение</item>
+        <item>Ручное получение</item>
+        <item>Автополучение</item>
+    </string-array>
+    <string-array name="search_list">
+        <item>Все</item>
+        <item>Содержимое</item>
+        <item>Адреса</item>
+    </string-array>
+    <string-array name="popup_menu_move_in_thread">
+        <item>Переместить в Сохраненные</item>
+        <item>Переместить на SIM</item>
+        <item>Копировать на SIM</item>
+    </string-array>
+    <string-array name="popup_menu_move_in_perm">
+        <item>Переместить в Диалоги</item>
+        <item>Переместить на SIM</item>
+        <item>Копировать на SIM</item>
+    </string-array>
+    <string-array name="popup_menu_save_in_usim">
+        <item>Переместить в Диалоги</item>
+        <item>Копировать в Диалоги</item>
+        <item>Переместить в Сохраненные</item>
+    </string-array>
+    <string-array name="popup_menu_register_spam">
+        <item>Записать номер в спам</item>
+        <item>Записать номер в спам</item>
+    </string-array>
+    <string-array name="link_popup_menu_web_url">
+        <item>Сохранить URL</item>
+        <item>Перейти по URL</item>
+    </string-array>
+    <string-array name="link_popup_menu_email">
+        <item>Сохранить эл. почту</item>
+        <item>Отправить эл. письмо</item>
+    </string-array>
+    <string-array name="link_popup_menu_phone">
+        <item>Голосовой вызов</item>
+        <item>Отправить сообщение</item>
+        <item>Сохранить контакт</item>
+    </string-array>
+    <string-array name="email_domain">
+        <item>hanmail.net</item>
+        <item>gmail.com</item>
+        <item>hotmail.com</item>
+        <item>naver.com</item>
+        <item>nate.com</item>
+        <item>empal.com</item>
+        <item>yahoo.com</item>
+        <item>daum.net</item>
+        <item>dreamwiz.com</item>
+        <item>paran.com</item>
+        <item>lycos.com</item>
+        <item>freecal.com</item>
+        <item>korea.com</item>
+		<item>mail.ru</item>
+		<item>ya.ru</item>
+    </string-array>
+    <string-array name="filename_prefix">
+        <item>음성녹음_</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 секунда</item>
+        <item>2 секунды</item>
+        <item>3 секунды</item>
+        <item>4 секунды</item>
+        <item>5 секунд</item>
+        <item>6 секунд</item>
+        <item>7 секунд</item>
+        <item>8 секунд</item>
+        <item>9 секунд</item>
+        <item>10 секунд</item>
+        <item>Другие…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Всегда</item>
+        <item>Когда без звука</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="prefValues_vibrateWhen">
+        <item>всегда</item>
+        <item>тихо</item>
+        <item>никогда</item>
+    </string-array>
+</resources>

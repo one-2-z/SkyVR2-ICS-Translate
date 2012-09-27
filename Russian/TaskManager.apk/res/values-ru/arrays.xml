@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="view_type_popup">
+        <item>Запуск</item>
+        <item>Название</item>
+        <item>Использование ЦП</item>
+        <item>Использование ОЗУ</item>
+        <item>Защищенные</item>
+    </string-array>
+    <string-array name="view_type_protect_popup">
+        <item>Название</item>
+        <item>Запущенный</item>
+    </string-array>
+    <string-array name="action_running_list">
+        <item>Запущенный</item>
+        <item>Системный</item>
+        <item>Защита</item>
+    </string-array>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="main_list">
+        <item>Установить маску</item>
+        <item>Установить аудио</item>
+        <item>Ошибка видеозвонка</item>
+        <item>Место хранения скриншотов</item>
+    </string-array>
+    <string-array name="alter_list">
+        <item>Картинка по умолчанию</item>
+        <item>Галерея</item>
+    </string-array>
+    <string-array name="audio_list">
+        <item>Динамик</item>
+        <item>Получатель</item>
+    </string-array>
+    <string-array name="call_list">
+        <item>Авто видеозвонок</item>
+        <item>Видеозвонок в ручную</item>
+        <item>Завершить звонок</item>
+    </string-array>
+    <string-array name="storage_list">
+        <item>Внутренняя память</item>
+        <item>SD-карта</item>
+    </string-array>
+</resources>

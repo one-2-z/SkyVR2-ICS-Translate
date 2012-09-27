@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Часы</string>
+    <string name="loading">Загрузка...</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="analog_clock_01">Аналоговые1</string>
+    <string name="analog_clock_02">Аналоговые2</string>
+    <string name="digital_clock_01">Цифровые1</string>
+    <string name="digital_clock_02">Цифровые2</string>
+</resources>

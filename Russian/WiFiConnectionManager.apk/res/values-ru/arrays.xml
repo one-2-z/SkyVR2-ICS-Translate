@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timezone_filters">
+        <item>Америка</item>
+        <item>Европа</item>
+        <item>Африка</item>
+        <item>Азия</item>
+        <item>Австралия</item>
+        <item>Тихий океан</item>
+        <item>Все</item>
+    </string-array>
+    <string-array name="date_format_values">
+        <item></item>
+        <item>MM-dd-yyyy</item>
+        <item>dd-MM-yyyy</item>
+        <item>yyyy-MM-dd</item>
+    </string-array>
+    <string-array name="animations_entries">
+        <item>Нет анимации</item>
+        <item>Немного анимации</item>
+        <item>Вся анимация</item>
+    </string-array>
+    <string-array name="animations_summaries">
+        <item>Показано без анимации</item>
+        <item>Показано немного анимации</item>
+        <item>Показана вся анимация</item>
+    </string-array>
+    <string-array name="animations_values">
+        <item>00</item>
+        <item>01</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="screen_timeout_values">
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>600000</item>
+        <item>1800000</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Очень медленный</item>
+        <item>Медленный</item>
+        <item>Обычный</item>
+        <item>Быстрый</item>
+        <item>Очень быстрый</item>
+    </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+    </string-array>
+    <string-array name="tts_pitch_entries">
+        <item>Очень низкий</item>
+        <item>Низкий</item>
+        <item>Нормальный</item>
+        <item>Высокий</item>
+        <item>очень высокий</item>
+    </string-array>
+    <string-array name="tts_pitch_values">
+        <item>50</item>
+        <item>80</item>
+        <item>100</item>
+        <item>120</item>
+        <item>150</item>
+    </string-array>
+    <string-array name="tts_lang_entries">
+        <item>American English</item>
+        <item>British English</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Italian</item>
+        <item>Spanish</item>
+    </string-array>
+    <string-array name="tts_lang_values">
+        <item>eng-USA</item>
+        <item>eng-GBR</item>
+        <item>fra-FRA</item>
+        <item>deu-DEU</item>
+        <item>ita-ITA</item>
+        <item>spa-ESP</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+    </string-array>
+    <string-array name="wifi_security_entries">
+        <item>Авто</item>
+        <item>Нет</item>
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x Enterprise</item>
+    </string-array>
+    <string-array name="wifi_security_without_auto_entries">
+        <item>Нет</item>
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x Enterprise</item>
+    </string-array>
+    <string-array name="wifi_wep_type">
+        <item>Авто</item>
+        <item>WEP ASCII</item>
+        <item>WEP hexadecimal</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Когда экран выключен</item>
+        <item>Никогда при включенной питании</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="battery_history_type_spinner">
+        <item>Использование CPU</item>
+        <item>Использование сети</item>
+        <item>Использование GPS</item>
+        <item>Использование датчика</item>
+        <item>Partial wake usage</item>
+        <item>Другое использование</item>
+    </string-array>
+    <string-array name="battery_history_which_spinner">
+        <item>С момента отключения питания</item>
+        <item>Всего с момента загрузки</item>
+        <item>Всего времени</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Длительность использования</item>
+        <item>Количество запусков</item>
+        <item>Название приложения</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>AKA</item>
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Нет</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>Выкл</item>
+        <item>Оповещение</item>
+        <item>Вибрация</item>
+    </string-array>
+    <string-array name="emergency_tone_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="special_locale_codes">
+        <item>zh_CN</item>
+        <item>zh_TW</item>
+    </string-array>
+    <string-array name="special_locale_names">
+        <item>中文 (简体)</item>
+        <item>中文 (繁體)</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Нет</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP or CHAP</item>
+    </string-array>
+    <string-array name="apn_auth_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="wifi_scan_period_entries">
+        <item>5분</item>
+        <item>3분</item>
+        <item>1분</item>
+        <item>30초</item>
+        <item>10초</item>
+    </string-array>
+    <string-array name="wifi_scan_period_values">
+        <item>299000</item>
+        <item>179000</item>
+        <item>59000</item>
+        <item>29000</item>
+        <item>9000</item>
+    </string-array>
+    <string-array name="conn_cond_entries">
+        <item>사용 안함</item>
+        <item>접속 대상 AP에만 접속</item>
+        <item>우선순위 접속</item>
+    </string-array>
+    <string-array name="conn_cond_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="off_timeout_entries">
+        <item>사용 안함</item>
+        <item>30초</item>
+        <item>1분</item>
+        <item>5분</item>
+        <item>10분</item>
+        <item>30분</item>
+    </string-array>
+    <string-array name="off_timeout_values">
+        <item>0</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>300000</item>
+        <item>600000</item>
+        <item>1800000</item>
+    </string-array>
+    <string-array name="user_prioity">
+        <item>없음</item>
+        <item>최우선 (1st)</item>
+        <item>상위 (2nd)</item>
+        <item>하위 (3rd)</item>
+    </string-array>
+    <string-array name="limit_rssi_entries">
+        <item>Очень хороший</item>
+        <item>Хороший</item>
+        <item>Нормальный</item>
+        <item>Все</item>
+    </string-array>
+    <string-array name="limit_rssi_values">
+        <item>-65</item>
+        <item>-70</item>
+        <item>-80</item>
+        <item>-1000</item>
+    </string-array>
+    <string-array name="ip_setting_option">
+        <item>Системные настройки</item>
+        <item>DHCP</item>
+        <item>Статический IP</item>
+    </string-array>
+    <string-array name="andsf_set">
+        <item>Вкл</item>
+        <item>Выкл</item>
+    </string-array>
+    <string-array name="locationgeo">
+        <item>Домашний</item>
+        <item>Офис</item>
+        <item>Другой</item>
+    </string-array>
+    <string-array name="main_menu_list">
+        <item>Зарегистрироваться здесь</item>
+        <item>Зарегистрировать местоположение</item>
+        <item>Управление зарегистрированными местоположениями</item>
+    </string-array>
+    <string-array name="time_menu_list">
+        <item>Зарегистрировать время</item>
+        <item>Управлять зарегистрированными временами</item>
+    </string-array>
+    <string-array name="advanced_wps_option">
+        <item>Выкл</item>
+        <item>Push-кнопка</item>
+        <item>PIN-код точки доступа</item>
+        <item>PIN-код этого устройства</item>
+    </string-array>
+    <string-array name="advanced_proxy_option">
+        <item>Нет</item>
+        <item>Вручную</item>
+    </string-array>
+    <string-array name="advanced_ip_option">
+        <item>DHCP</item>
+        <item>Статический</item>
+    </string-array>
+</resources>

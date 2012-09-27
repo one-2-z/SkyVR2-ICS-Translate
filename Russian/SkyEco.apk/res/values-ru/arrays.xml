@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="eco_battery_level_entries">
+        <item>Немедленно</item>
+        <item>50% заряда батареи</item>
+        <item>40% заряда батареи</item>
+        <item>30% заряда батареи</item>
+        <item>20% заряда батареи</item>
+        <item>15% заряда батареи</item>
+        <item>10% заряда батареи</item>
+        <item>5% заряда батареи</item>
+    </string-array>
+    <string-array name="eco_battery_level_values_entries">
+        <item>-1</item>
+        <item>50</item>
+        <item>40</item>
+        <item>30</item>
+        <item>20</item>
+        <item>15</item>
+        <item>10</item>
+        <item>5</item>
+    </string-array>
+</resources>

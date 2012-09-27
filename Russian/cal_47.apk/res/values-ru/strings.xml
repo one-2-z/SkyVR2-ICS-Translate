@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CALCULATOR">Калькулятор</string>
+    <string name="POPUP_MAXLEN">Превышено максимальное количество цифр.</string>
+    <string name="POPUP_OUTMAXLEN">"Извините
+- Ошибка переполнения."</string>
+    <string name="POPUP_LIST_FULL">список полон.</string>
+    <string name="MENU_SAVE">Сохранить</string>
+    <string name="MENU_DELETE">Удалить</string>
+    <string name="MENU_RENAME">Переименовать</string>
+    <string name="RENAMED">Переименовано.</string>
+    <string name="MENU_EDIT">Изменить</string>
+    <string name="MENU_LIST">Список</string>
+    <string name="MENU_SELECT_ALL">Выбрать все</string>
+    <string name="MENU_DESELECT_ALL">Отменить все</string>
+    <string name="NO_RESULT">Нет результата</string>
+    <string name="CREATE_TITLE">Создать заголовок</string>
+    <string name="RENAME_TITLE">Переименовать заголовок</string>
+    <string name="BUTTON_DONE">Готово</string>
+    <string name="BUTTON_CANCEL">Отмена</string>
+    <string name="LIST_EMPTY">Нет списка.</string>
+    <string name="POPUP_INFOMATION">Информация</string>
+    <string name="POPUP_SAVE">Сохранено.</string>
+    <string name="POPUP_DELETED">Удалено</string>
+    <string name="POPUP_DELETING">Удаление...</string>
+    <string name="POPUP_NOTCHECK">Ничего не выбрано.</string>
+    <string name="POPUP_INVALID_FORMAT">Неверный формат.</string>
+    <string name="POPUP_CONVERT_FAIL">Ошибка преобразования.</string>
+    <string name="MENU_DEC">Dec</string>
+    <string name="MENU_HEX">Hex</string>
+    <string name="POPUP_SAVEQ">Сохранить?</string>
+    <string name="BUTTON_SAVE">Сохранить</string>
+</resources>

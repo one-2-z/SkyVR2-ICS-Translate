@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Всплывающее сообщение</string>
+    <string name="description">Present color messages by phone movement</string>
+    <string name="setting_title">Всплывающее сообщение</string>
+    <string name="motion_speed">Регулировка скорости движения</string>
+</resources>

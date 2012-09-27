@@ -1,0 +1,232 @@
+<city_table
+>
+    <city name="Aarhus" gmt="+:01:00" country="Denmark" />
+    <city name="Abidjan" gmt="+:00:00" country="Côte d’Ivoire" />
+    <city name="Adis Ababa" gmt="+:03:00" country="Ethiopia" />
+    <city name="Albuquerque" gmt="-:07:00" country="USA" />
+    <city name="Alexandria" gmt="+:02:00" country="Egypt" />
+    <city gmt="+:01:00" name="Algiers" country="Algeria" />
+    <city gmt="+:01:00" name="Alicante" country="Spain" />
+    <city name="Ahmadabad" gmt="+:05:30" country="India" />
+    <city gmt="+:01:00" name="Amsterdam" country="Netherlands" />
+    <city gmt="+:02:00" name="Ankara" country="Turkey" />
+    <city gmt="+:01:00" name="Antwerp" country="Belgium" />
+    <city country="USA" name="Arlington" gmt="-:06:00" />
+    <city gmt="+:02:00" name="Athens" country="Greece" />
+    <city country="USA" name="Atlanta" gmt="-:05:00" />
+    <city country="USA" gmt="-:06:00" name="Austin" />
+    <city gmt="+:03:00" name="Baghdad" country="Iraq" />
+    <city country="USA" gmt="-:05:00" name="Baltimore" />
+    <city gmt="+:05:30" country="India" name="Bengaluru" />
+    <city name="Bangdung" gmt="+:07:00" country="Indonesia" />
+    <city gmt="+:07:00" name="Bangkok" country="Thailand" />
+    <city gmt="+:01:00" country="Spain" name="Barcelona" />
+    <city gmt="+:01:00" name="Bari" country="Italy" />
+    <city name="Beijing" gmt="+:08:00" country="China" />
+    <city name="Belo Horizonte" gmt="-:03:00" country="Brazil" />
+    <city gmt="+:01:00" name="Berlin" country="Germany" />
+    <city gmt="+:01:00" country="Germany" name="Bielefeld" />
+    <city gmt="+:01:00" country="Spain" name="Bilbao" />
+    <city gmt="+:00:00" name="Birmingham" country="United Kingdom" />
+    <city gmt="+:01:00" country="Germany" name="Bochum" />
+    <city gmt="-:05:00" name="Bogotá" country="Colombia" />
+    <city gmt="+:01:00" country="Italy" name="Bologna" />
+    <city gmt="+:01:00" country="Germany" name="Bonn" />
+    <city country="USA" gmt="-:05:00" name="Boston" />
+    <city gmt="+:00:00" country="United Kingdom" name="Bradford" />
+    <city gmt="+:01:00" name="Bratislava" country="Slovakia" />
+    <city gmt="+:01:00" country="Germany" name="Bremen" />
+    <city gmt="+:00:00" country="United Kingdom" name="Bristol" />
+    <city gmt="+:01:00" name="Brno" country="Czech Republic" />
+    <city gmt="+:02:00" name="Bucharest" country="Romania" />
+    <city gmt="+:01:00" name="Budapest" country="Hungary" />
+    <city gmt="-:03:00" name="Buenos Aires" country="Argentina" />
+    <city name="Busan" gmt="+:09:00" country="South Korea" />
+    <city gmt="+:01:00" name="Bydgoszcz" country="Poland" />
+    <city gmt="+:02:00" country="Egypt" name="Cairo" />
+    <city gmt="+:02:00" name="Cape Town" country="South Africa" />
+    <city name="Caracas" gmt="-:04:30" country="Venezuela" />
+    <city gmt="+:00:00" country="United Kingdom" name="Cardiff" />
+    <city gmt="+:00:00" name="Casablanca" country="Morocco" />
+    <city gmt="+:08:00" country="China" name="Changchun" />
+    <city country="USA" gmt="-:05:00" name="Charlotte" />
+    <city gmt="+:08:00" country="China" name="Chengdu" />
+    <city gmt="+:05:30" country="India" name="Chennai" />
+    <city country="USA" gmt="-:06:00" name="Chicago" />
+    <city gmt="+:08:00" country="China" name="Chongqing" />
+    <city country="USA" gmt="-:05:00" name="Cleveland" />
+    <city gmt="+:02:00" country="Romania" name="Cluj-Napoca" />
+    <city gmt="+:01:00" country="Germany" name="Cologne" />
+    <city gmt="-:07:00" country="USA" name="Colorado Springs" />
+    <city country="USA" gmt="-:05:00" name="Columbus" />
+    <city gmt="+:01:00" country="Denmark" name="Copenhagen" />
+    <city gmt="+:01:00" country="Spain" name="Córdoba" />
+    <city gmt="+:00:00" country="United Kingdom" name="Coventry" />
+    <city gmt="+:08:00" country="China" name="Dalian" />
+    <city country="USA" gmt="-:06:00" name="Dallas" />
+    <city gmt="+:05:30" country="India" name="Delhi" />
+    <city gmt="-:07:00" country="USA" name="Denver" />
+    <city country="USA" gmt="-:05:00" name="Detroit" />
+    <city name="Dhaka" gmt="+:06:00" country="Bangladesh" />
+    <city gmt="+:01:00" country="Germany" name="Dortmund" />
+    <city gmt="+:01:00" country="Germany" name="Dresden" />
+    <city gmt="+:00:00" name="Dublin" country="Ireland" />
+    <city gmt="+:01:00" country="Germany" name="Duisburg" />
+    <city gmt="+:01:00" country="Germany" name="Düsseldorf" />
+    <city gmt="+:00:00" country="United Kingdom" name="Edinburgh" />
+    <city gmt="-:07:00" country="USA" name="El Paso" />
+    <city gmt="+:01:00" country="Germany" name="Essen" />
+    <city gmt="+:01:00" country="Italy" name="Florence" />
+    <city country="USA" gmt="-:06:00" name="Fort Worth" />
+    <city gmt="+:01:00" country="Germany" name="Frankfurt" />
+    <city country="USA" name="Fresno" gmt="-:08:00" />
+    <city gmt="+:01:00" country="Poland" name="Gdańsk" />
+    <city gmt="+:01:00" country="Italy" name="Genova" />
+    <city gmt="+:00:00" country="United Kingdom" name="Glasgow" />
+    <city gmt="+:01:00" name="Gothenburg" country="Sweden" />
+    <city gmt="-:06:00" name="Guadalajara" country="Mexico" />
+    <city gmt="+:08:00" country="China" name="Guangzhou" />
+    <city gmt="+:01:00" country="Germany" name="Hamburg" />
+    <city gmt="+:08:00" country="China" name="Handan" />
+    <city gmt="+:08:00" country="China" name="Hangzhou" />
+    <city gmt="+:01:00" country="Germany" name="Hannover" />
+    <city gmt="+:07:00" name="Hanoi" country="Vietnam" />
+    <city gmt="+:08:00" country="China" name="Harbin" />
+    <city gmt="+:02:00" name="Helsinki" country="Finland" />
+    <city gmt="+:07:00" country="Vietnam" name="Ho Chi Minh City" />
+    <city gmt="+:08:00" country="China" name="Hong Kong" />
+    <city country="USA" name="Honolulu" gmt="-:10:00" />
+    <city country="USA" gmt="-:06:00" name="Houston" />
+    <city gmt="+:05:30" country="India" name="Hyderabad" />
+    <city gmt="+:02:00" country="Romania" name="Iaşi" />
+    <city country="USA" gmt="-:05:00" name="Indianapolis" />
+    <city gmt="+:02:00" country="Turkey" name="Istanbul" />
+    <city country="USA" gmt="-:05:00" name="Jacksonville" />
+    <city gmt="+:07:00" country="Indonesia" name="Jakarta" />
+    <city gmt="+:08:00" country="China" name="Jinan" />
+    <city country="USA" gmt="-:06:00" name="Kansas City" />
+    <city name="Karachi" gmt="+:05:00" country="Pakistan" />
+    <city gmt="+:01:00" country="Poland" name="Katowice" />
+    <city gmt="+:02:00" name="Kaunas" country="Lithuania" />
+    <city gmt="+:01:00" name="Kinshasa" country="DRC" />
+    <city gmt="+:05:30" country="India" name="Kolkata" />
+    <city gmt="+:01:00" country="Poland" name="Kraków" />
+    <city gmt="+:01:00" name="Lagos" country="Nigeria" />
+    <city gmt="+:05:00" country="Pakistan" name="Lahore" />
+    <city gmt="+:00:00" country="Spain" name="Las Palmas" />
+    <city country="USA" gmt="-:08:00" name="Las Vegas" />
+    <city gmt="+:00:00" country="United Kingdom" name="Leeds" />
+    <city gmt="+:01:00" country="Germany" name="Leipzig" />
+    <city gmt="-:05:00" name="Lima" country="Peru" />
+    <city gmt="+:00:00" name="Lisbon" country="Portugal" />
+    <city gmt="+:00:00" country="United Kingdom" name="Liverpool" />
+    <city gmt="+:01:00" country="Poland" name="Łódź" />
+    <city gmt="+:00:00" country="United Kingdom" name="London" />
+    <city country="USA" gmt="-:08:00" name="Long Beach" />
+    <city country="USA" gmt="-:08:00" name="Los Angeles" />
+    <city country="USA" gmt="-:05:00" name="Louisville" />
+    <city gmt="+:01:00" country="Poland" name="Lublin" />
+    <city gmt="+:01:00" name="Lyon" country="France" />
+    <city gmt="+:01:00" country="Spain" name="Madrid" />
+    <city gmt="+:01:00" country="Spain" name="Málaga" />
+    <city gmt="+:00:00" country="United Kingdom" name="Manchester" />
+    <city gmt="+:08:00" name="Manila" country="Philippines" />
+    <city gmt="+:01:00" country="Germany" name="Mannheim" />
+    <city gmt="+:02:00" name="Maputo" country="Mozambique" />
+    <city gmt="+:01:00" country="France" name="Marseille" />
+    <city gmt="-:05:00" country="Colombia" name="Medellin" />
+    <city name="Melbourne" gmt="+:10:00" country="Australia" />
+    <city country="USA" gmt="-:06:00" name="Memphis" />
+    <city gmt="-:07:00" country="USA" name="Mesa" />
+    <city gmt="-:06:00" country="Mexico" name="Mexico City" />
+    <city country="USA" gmt="-:05:00" name="Miami" />
+    <city gmt="+:01:00" country="Italy" name="Milano" />
+    <city country="USA" gmt="-:06:00" name="Milwaukee" />
+    <city country="USA" gmt="-:06:00" name="Minneapolis" />
+    <city gmt="-:06:00" country="Mexico" name="Monterrey" />
+    <city gmt="-:05:00" name="Montreal" country="Canada" />
+    <city gmt="+:03:00" name="Moscow" country="Russian Federation" />
+    <city gmt="+:05:30" country="India" name="Mumbai" />
+    <city gmt="+:01:00" country="Germany" name="Munich" />
+    <city gmt="+:01:00" country="Spain" name="Murcia" />
+    <city gmt="+:09:00" name="Nagoya" country="Japan" />
+    <city gmt="+:08:00" country="China" name="Nanjing" />
+    <city gmt="+:01:00" country="Italy" name="Napoli (Naples)" />
+    <city country="USA" gmt="-:06:00" name="Nashville" />
+    <city country="USA" gmt="-:05:00" name="New York City" />
+    <city gmt="+:01:00" country="France" name="Nice" />
+    <city gmt="+:01:00" country="Germany" name="Nuremberg" />
+    <city country="USA" gmt="-:08:00" name="Oakland" />
+    <city country="USA" gmt="-:06:00" name="Oklahoma City" />
+    <city country="USA" gmt="-:06:00" name="Omaha" />
+    <city gmt="+:09:00" country="Japan" name="Osaka" />
+    <city gmt="+:01:00" country="Czech Republic" name="Ostrava" />
+    <city gmt="+:01:00" country="Italy" name="Palermo" />
+    <city gmt="+:01:00" country="Spain" name="Palma" />
+    <city gmt="+:01:00" country="France" name="Paris" />
+    <city country="USA" gmt="-:05:00" name="Philadelphia" />
+    <city gmt="-:07:00" country="USA" name="Phoenix" />
+    <city gmt="+:02:00" name="Plovdiv" country="Bulgaria" />
+    <city country="USA" gmt="-:05:00" name="Portland" />
+    <city gmt="-:03:00" country="Brazil" name="Porto Alegre" />
+    <city gmt="+:01:00" country="Poland" name="Poznań" />
+    <city gmt="+:01:00" country="Czech Republic" name="Prague" />
+    <city gmt="+:05:30" country="India" name="Pune" />
+    <city gmt="+:08:00" country="China" name="Qingdao" />
+    <city country="USA" gmt="-:05:00" name="Raleigh" />
+    <city gmt="-:03:00" country="Brazil" name="Recife" />
+    <city gmt="+:02:00" name="Riga" country="Latvia" />
+    <city gmt="-:03:00" country="Brazil" name="Rio de Janeiro" />
+    <city gmt="+:03:00" name="Riyadh" country="Saudi Arabia" />
+    <city gmt="+:01:00" country="Italy" name="Rome" />
+    <city gmt="+:01:00" country="Netherlands" name="Rotterdam" />
+    <city country="USA" gmt="-:08:00" name="Sacramento" />
+    <city gmt="-:03:00" country="Brazil" name="Salvador" />
+    <city country="USA" gmt="-:06:00" name="San Antonio" />
+    <city country="USA" gmt="-:08:00" name="San Diego" />
+    <city country="USA" gmt="-:08:00" name="San Francisco" />
+    <city country="USA" gmt="-:08:00" name="San Jose" />
+    <city name="Santiago" gmt="-:04:00" country="Chile" />
+    <city gmt="-:04:00" name="Santo Domingo" country="Dominican Republic" />
+    <city gmt="-:03:00" country="Brazil" name="São Paulo" />
+    <city country="USA" gmt="-:08:00" name="Seattle" />
+    <city gmt="+:09:00" country="South Korea" name="Seoul" />
+    <city gmt="+:08:00" country="China" name="Shanghai" />
+    <city gmt="+:00:00" country="United Kingdom" name="Sheffield" />
+    <city gmt="+:08:00" country="China" name="Shenyang" />
+    <city gmt="+:08:00" name="Singapore" country="Singapore" />
+    <city gmt="+:02:00" country="Bulgaria" name="Sofia" />
+    <city gmt="+:03:00" country="Russian Federation" name="St. Petersburg" />
+    <city gmt="+:01:00" country="Sweden" name="Stockholm" />
+    <city gmt="+:01:00" country="Germany" name="Stuttgart" />
+    <city gmt="+:10:00" country="Australia" name="Sydney" />
+    <city gmt="+:01:00" country="Poland" name="Szczecin" />
+    <city gmt="+:02:00" name="Tallinn" country="Estonia" />
+    <city name="Tehran" gmt="+:03:30" country="Iran" />
+    <city gmt="+:01:00" country="Netherlands" name="The Hague" />
+    <city gmt="+:02:00" country="Greece" name="Thessaloníki" />
+    <city gmt="+:08:00" country="China" name="Tianjin" />
+    <city gmt="+:02:00" country="Romania" name="Timişoara" />
+    <city gmt="+:09:00" country="Japan" name="Tokyo" />
+    <city gmt="-:05:00" country="Canada" name="Toronto" />
+    <city gmt="+:01:00" country="France" name="Toulouse" />
+    <city gmt="-:07:00" country="USA" name="Tucson" />
+    <city country="USA" gmt="-:06:00" name="Tulsa" />
+    <city gmt="+:01:00" country="Italy" name="Torino" />
+    <city gmt="+:01:00" country="Spain" name="Valencia" />
+    <city gmt="+:01:00" country="Spain" name="Valladolid" />
+    <city gmt="+:02:00" country="Bulgaria" name="Varna" />
+    <city gmt="+:01:00" name="Vienna" country="Austria" />
+    <city gmt="+:02:00" country="Lithuania" name="Vilnius" />
+    <city country="USA" gmt="-:05:00" name="Virginia Beach" />
+    <city gmt="+:00:00" country="United Kingdom" name="Wakefield" />
+    <city gmt="+:01:00" country="Poland" name="Warsaw" />
+    <city country="USA" gmt="-:05:00" name="Washington DC" />
+    <city gmt="+:01:00" country="Poland" name="Wrocław" />
+    <city gmt="+:08:00" country="China" name="Wuhan" />
+    <city gmt="+:01:00" country="Germany" name="Wuppertal" />
+    <city gmt="+:08:00" country="China" name="Xi'an" />
+    <city name="Yangon" gmt="+:06:30" country="Myanmar (Burma)" />
+    <city gmt="+:01:00" country="Spain" name="Zaragoza" />
+
+</city_table>

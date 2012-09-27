@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">%s попыток создать VPN подключение.</string>
+    <string name="warning">Продолжая, вы даете приложению права на использование сетевого трафика. <b>НЕ принимать, если вы не доверяете приложению.</b>" В противном случае вы рискуете получить вредоносные программы. "</string>
+    <string name="accept">Я доверяю приложению.</string>
+    <string name="legacy_title">VPN подключена</string>
+    <string name="configure">Настроить</string>
+    <string name="disconnect">Отключить</string>
+    <string name="session">Сессия:</string>
+    <string name="duration">Длительность:</string>
+    <string name="data_transmitted">Отправлено:</string>
+    <string name="data_received">Получено:</string>
+    <string name="blank_value">--</string>
+    <string name="data_value_format" formatted="false">%1$s байт / %2$s пакетов</string>
+</resources>

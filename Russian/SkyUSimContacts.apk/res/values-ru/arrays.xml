@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="systemGroupNames">
+        <item>Системная группа: Мои контакты</item>
+        <item>Системная группа: Друзья</item>
+        <item>Системная группа: Семья</item>
+        <item>Системная группа: Коллеги</item>
+    </string-array>
+    <string-array name="systemGroupDisplayNames">
+        <item>Мои контакты</item>
+        <item>Друзья</item>
+        <item>Семья</item>
+        <item>Коллеги</item>
+    </string-array>
+    <string-array name="systemGroupIds">
+        <item>Контакты</item>
+        <item>Друзья</item>
+        <item>Семья</item>
+        <item>Коллеги</item>
+    </string-array>
+</resources>

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transport_types">
+        <item>UDP</item>
+        <item>TCP</item>
+    </string-array>
+    <array name="sip_call_options_entries">
+        <item>@string/sip_call_options_entry_1</item>
+        <item>@string/sip_call_options_entry_2</item>
+        <item>@string/sip_call_options_entry_3</item>
+    </array>
+    <array name="sip_call_options_wifi_only_entries">
+        <item>@string/sip_call_options_wifi_only_entry_1</item>
+        <item>@string/sip_call_options_entry_2</item>
+        <item>@string/sip_call_options_entry_3</item>
+    </array>
+    <array name="sip_call_options_values">
+        <item>@string/sip_always</item>
+        <item>@string/sip_address_only</item>
+        <item>@string/sip_ask_me_each_time</item>
+    </array>
+    <array name="phone_type_values">
+        <item>@string/pstn_phone</item>
+        <item>@string/internet_phone</item>
+    </array>
+    <array name="sip_send_keepalive_options">
+        <item>@string/sip_system_decide</item>
+        <item>@string/sip_always_send_keepalive</item>
+    </array>
+    <array name="incoming_call_widget_3way_targets">
+        <item>@android:drawable/ic_lockscreen_answer</item>
+        <item>@android:drawable/ic_lockscreen_send_sms</item>
+        <item>@android:drawable/ic_lockscreen_decline</item>
+        <item>@null</item>
+    </array>
+    <array name="incoming_call_widget_3way_target_descriptions">
+        <item>@string/description_target_answer</item>
+        <item>@string/description_target_send_sms</item>
+        <item>@string/description_target_decline</item>
+        <item>@null</item>
+    </array>
+    <array name="incoming_call_widget_3way_direction_descriptions">
+        <item>@android:string/description_direction_right</item>
+        <item>@android:string/description_direction_up</item>
+        <item>@android:string/description_direction_left</item>
+        <item>@null</item>
+    </array>
+    <array name="incoming_call_widget_2way_targets">
+        <item>@android:drawable/ic_lockscreen_answer</item>
+        <item>@null</item>
+        <item>@android:drawable/ic_lockscreen_decline</item>
+        <item>@null</item>
+    </array>
+    <array name="incoming_call_widget_2way_target_descriptions">
+        <item>@string/description_target_answer</item>
+        <item>@null</item>
+        <item>@string/description_target_decline</item>
+        <item>@null</item>
+    </array>
+    <array name="incoming_call_widget_2way_direction_descriptions">
+        <item>@android:string/description_direction_right</item>
+        <item>@null</item>
+        <item>@android:string/description_direction_left</item>
+        <item>@null</item>
+    </array>
+    <string-array name="pcu_phone_rad_setting_list_preference">
+        <item>Вкл</item>
+        <item>Выкл</item>
+        <item>Только Корея</item>
+    </string-array>
+    <string-array name="pcu_phone_entryvalues_list_preference">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="pcu_phone_rad_dialog_list_items">
+        <item>Звонок в Корею</item>
+        <item>Звонок в другую страну</item>
+    </string-array>
+    <string-array name="pcu_phone_incall_popup_items">
+        <item>Микрофон вкл</item>
+        <item>Динамик вкл</item>
+        <item>Bluetooth вкл</item>
+    </string-array>
+    <string-array name="pcu_phone_voipcalltype_dialog_list_items">
+        <item>Интернет телефон</item>
+        <item>3G</item>
+    </string-array>
+    <string-array name="pcu_phone_reject_msg_archive_items">
+        <item>Создать новое сообщение</item>
+        <item>"Не могу сейчас ответить на звонок.
+Перезвоню."</item>
+        <item>"Я за рулем. Перезвоню"</item>
+        <item>"Я на встрече. Перезвоню."</item>
+        <item>"Я занят. Перезвоню"</item>
+        <item>Автоответ</item>
+        <item>Закрыть</item>
+    </string-array>
+    <string-array name="pcu_phone_autoanswer_guide_items">
+        <item>(General)</item>
+        <item>(Driving)</item>
+        <item>(Conference)</item>
+        <item>(Class)</item>
+    </string-array>
+    <string-array name="pcu_phone_geo_discription_items">
+        <item>Seoul</item>
+        <item>Busan</item>
+        <item>Daegu</item>
+        <item>Incheon</item>
+        <item>Gwangju</item>
+        <item>Daejeon</item>
+        <item>Ulsan</item>
+        <item>Gyeonggi</item>
+        <item>Gangwon</item>
+        <item>Chungbuk</item>
+        <item>Chungnam</item>
+        <item>Jeonbuk</item>
+        <item>Jeonnam</item>
+        <item>Gyeongbuk</item>
+        <item>Gyeongnam</item>
+        <item>Jeju</item>
+    </string-array>
+    <string-array name="pcu_phone_Pbook_Additional_Info_list_items">
+        <item>Годовщина</item>
+        <item>Событие</item>
+        <item>День рождения</item>
+    </string-array>
+    <string-array name="pcu_phone_systemGroupNames">
+        <item>Системная группа: Мои контакты</item>
+        <item>Системная группа: Друзья</item>
+        <item>Системная группа: Семья</item>
+        <item>Системная группа: Коллеги</item>
+    </string-array>
+    <string-array name="pcu_phone_systemGroupDisplayNames">
+        <item>Мои контакты</item>
+        <item>Друзья</item>
+        <item>Семья</item>
+        <item>Коллеги</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>По умолчанию сети</item>
+        <item>Скрыть номер</item>
+        <item>Показать номер</item>
+    </string-array>
+    <string-array name="clir_values">
+        <item>DEFAULT</item>
+        <item>HIDE</item>
+        <item>SHOW</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE / WCDMA</item>
+        <item>LTE</item>
+        <item>Global</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>EvDo только</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA / EvDo авто</item>
+        <item>GSM / WCDMA авто</item>
+        <item>WCDMA только</item>
+        <item>GSM только</item>
+        <item>GSM / WCDMA предпочтительно</item>
+    </string-array>
+    <string-array name="preferred_network_mode_values">
+        <item>12</item>
+        <item>11</item>
+        <item>10</item>
+        <item>9</item>
+        <item>8</item>
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_lte">
+        <item>LTE / CDMA</item>
+        <item>CDMA</item>
+    </string-array>
+    <string-array name="preferred_network_mode_values_lte">
+        <item>7</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>English</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Chinese</item>
+        <item>Hebrew</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (авто режим)</item>
+        <item>WCDMA только</item>
+        <item>GSM только</item>
+        <item>GSM/WCDA (WCDMA предпочтительно)</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Только дома</item>
+        <item>Автоматически</item>
+    </string-array>
+    <string-array name="cdma_system_select_values">
+        <item>0</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Домашние сети только</item>
+        <item>Affiliated Networks</item>
+        <item>Любые сети</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>CDMA только</item>
+        <item>EvDo только</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="cdma_subscription_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY Off</item>
+        <item>TTY Full</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="tty_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Обычный</item>
+        <item>Длинный</item>
+    </string-array>
+    <string-array name="dtmf_tone_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="skt_nw_mode">
+        <item>LTE/WCDMA AUTO</item>
+        <item>WCDMA только</item>
+    </string-array>
+    <string-array name="skt_preferred_network_mode_choices">
+        <item>Автоматически</item>
+        <item>WCDMA только</item>
+        <item>GSM только</item>
+    </string-array>
+    <string-array name="skt_preferred_network_mode_values">
+        <item>9</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="skt_data_network_select_entries">
+        <item>LTE предпочтительно</item>
+        <item>3G</item>
+    </string-array>
+    <string-array name="skt_data_network_select_values">
+        <item>9</item>
+        <item>0</item>
+    </string-array>
+</resources>

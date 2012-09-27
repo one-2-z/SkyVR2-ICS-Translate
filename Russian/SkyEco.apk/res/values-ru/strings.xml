@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="eco_mode">Настройки сохранения заряда</string>
+    <string name="eco_mode_category">Сохранение заряда</string>
+    <string name="eco_mode_enable">Сохранение заряда</string>
+    <string name="eco_mode_enable_summary_on">Применение сохранения</string>
+    <string name="eco_mode_enable_summary_waiting">Ожидание сохранения</string>
+    <string name="eco_mode_enable_summary_off">Сохранение отключено</string>
+    <string name="eco_battery_level">Включить сохранение энергии при</string>
+    <string name="eco_option_category">Опции</string>
+    <string name="eco_option_wifi">Выключить Wi-Fi</string>
+    <string name="eco_option_wifi_summary">Выключить Wi-Fi если не подключен к точке доступа</string>
+    <string name="eco_option_bt">Выключить Bluetooth</string>
+    <string name="eco_option_bt_summary">Выключить Bluetooth если не используется</string>
+    <string name="eco_option_haptic">Отключить виброотклик</string>
+    <string name="eco_option_haptic_summary">Выключить вибрацию и звуки при касании экрана</string>
+    <string name="eco_option_bg_data">Отключить фоновую загрузку данных</string>
+    <string name="eco_option_bg_data_summary">Предотвращение  обновлением приложений в фоновом режиме</string>
+    <string name="eco_option_br_timeout">Отключение экрана</string>
+    <string name="eco_option_br_timeout_summary">Установить отключение через 15 секунд</string>
+    <string name="eco_option_brightness">Яркость экрана</string>
+    <string name="eco_option_brightness_summary_on">Включить настройки яркости экрана</string>
+    <string name="eco_option_brightness_summary_off">Выключить настройки яркости экрана</string>
+    <string name="eco_option_br_level">Настройки яркости экрана</string>
+    <string name="eco_option_br_level_summary">Установить яркость экрана</string>
+    <string name="confirm_msg">Будут применены настройки сохранения энергии. Продолжить?</string>
+    <string name="start_msg">Запуск сохранение энергии</string>
+    <string name="need_to_restart">При включении сохранения энергии снова, пользователь должен подтвердить включение</string>
+    <string name="end_msg">Остановка сохранения энергии</string>
+    <string name="atLeast">Ничего не отмечено. Выберите больше одного</string>
+    <string name="eco_on">Сохранение энергии включено</string>
+    <string name="eco_cannot_run_if_car_mode">Недоступно в автомобильном режиме</string>
+    <string name="eco_option_gps">Отключить GPS</string>
+    <string name="eco_option_gps_summary">Отключить GPS если не используется</string>
+    <string name="automatic_brightness">Автоматическая яркость</string>
+    <string name="battery_level_in_number_title">Заряд в процентах(%)</string>
+    <string name="battery_level_in_number_summary">Отображать оставшийся заряд в процентах вверху экрана</string>
+    <string name="battery_saving">Методы сохранения заряда батареи</string>
+    <string name="battery_saving_summary">Продление жизни батареи</string>
+    <string name="WiFi_Title">Wi-Fi</string>
+    <string name="WiFi_Info">Выключить Wi-Fi если не подключен к точке доступа. Вы можете продлить жизнь батареи, потому что сканирование/ожидание точек доступа тратит батарею. Однако, если использование Wi-Fi сохранит больше батареи, чем при использовании 3G, 4G LTE данных.</string>
+    <string name="BlueTooth_Title">BlueTooth</string>
+    <string name="BlueTooth_Info">Выключить Bluetooth если нет подключения Bluetooth-наушникам, гарнитуре и т.д. Bluetooth посылает/получает или ожидает сигнал. Если выключить Bluetooth, то можно продлить жизнь батареи.</string>
+    <string name="TouchFB_Title">Отклик касаний</string>
+    <string name="TouchFB_Info">Используя слабую вибрацию/тихий звук или вообще тишину, вы можете продлить жизнь батарее.</string>
+    <string name="BGData_Title">Фоновая загрузка данных</string>
+    <string name="BGData_Info">В Настройки>Системные>Аккаунты и синхронизация, выключите Автосинхронизацию и используйте ручное обновление. Вы можете продлить жизнь батарее. Gmail, Календарь, Контакты, Погода, SNS и другие приложения тратят батарею когда  обновляют информацию.</string>
+    <string name="ScreenBrightness_Title">Яркость экрана</string>
+    <string name="ScreenBrightness_Info">Низкая яркость экрана может продлить жизнь батареи. И если выставить выключение экрана через 15 секунд, то это предотвратит долгую работу экрана.</string>
+    <string name="Etc_Title">Другое</string>
+    <string name="Etc_Info">"1. GPS включен но не используется, продли жизнь батареи
+2. В списке ‘Запущенные’ закройте приложения, которыми не пользуетесь
+3. Удалите бесполезные приложения
+4. Встроенные приложения очень хорошо оптимизированы и смогут продлить срок службы батареи"</string>
+</resources>

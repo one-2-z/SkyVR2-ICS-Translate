@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">Мультимедия</string>
+    <string name="app_label">Хранилище мультимедиа</string>
+    <string name="upgrade_msg">Обновление базы мультимедиа.</string>
+    <string name="artist_label">Артист</string>
+    <string name="sys_mem">Система</string>
+    <string name="internal_mem">Память</string>
+    <string name="external_mem">SD-карта</string>
+    <string name="otg_mem">USB-хранилище</string>
+    <string name="directory_mem">Каталог</string>
+    <string name="running_scan">Поиск мультимедия запущен</string>
+    <string name="complete_scan">Поиск мультимедия завершен</string>
+    <string name="scan_msg">Поиск мультимедия</string>
+</resources>

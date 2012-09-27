@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Видео</string>
+    <string name="share">Передать</string>
+    <string name="opt_menu_full_screen_mode">Полный экран</string>
+    <string name="opt_menu_orig_screen_mode">Оригинальное соотношение</string>
+    <string name="properties">Свойства</string>
+    <string name="properties_title">Имя файла</string>
+    <string name="properties_path">Путь файла</string>
+    <string name="properties_filesize">Размер файла</string>
+    <string name="properties_duration">Длительность</string>
+    <string name="properties_format">Формат</string>
+    <string name="properties_resolution">Разрешение</string>
+    <string name="properties_dateadded">Дата добавки</string>
+    <string name="properties_gb">Гб</string>
+    <string name="properties_mb">Мб</string>
+    <string name="properties_kb">Кб</string>
+    <string name="properties_byte">Б</string>
+    <string name="unknown_information">Неизвестно</string>
+    <string name="settings">Настройки</string>
+    <string name="always_landscapde_mode">Всегда ландшафтный режим</string>
+    <string name="always_landscapde_mode_summary">Всегда ладшафтный режим.</string>
+    <string name="full_screen_mode">Полноэкранный режим</string>
+    <string name="full_screen_mode_summary">Видео воспроизводится в полноэкранном режиме.</string>
+    <string name="rotation">Поворот</string>
+    <string name="default_rotation">По умолчанию</string>
+    <string name="opposite_rotation">Повернуть на 180˚</string>
+    <string name="opposite_rotation_mode">Поворот на 180˚</string>
+    <string name="current_playlist">Сейчас проигрывается</string>
+    <string name="volume">Громкость</string>
+    <string name="sound_effect">3D эффект</string>
+    <string name="repeat">Повтор</string>
+    <string name="repeat_off">Выкл</string>
+    <string name="repeat_one">Все</string>
+    <string name="repeat_all">Одна</string>
+    <string name="caption_language">Язык</string>
+    <string name="caption_lang_Default">по умолчанию</string>
+    <string name="caption_lang_All">Все</string>
+    <string name="caption_lang_KRCC">Корейский</string>
+    <string name="caption_lang_ENCC">Английский</string>
+    <string name="caption_lang_JPCC">Японский</string>
+    <string name="caption_lang_off">Выкл</string>
+    <string name="alert_dialog_ok">Ок</string>
+    <string name="alert_dialog_cancel">Отмена</string>
+    <string name="no_title">Нет заголовка</string>
+    <string name="general_information">Информация</string>
+    <string name="general_yes">Да</string>
+    <string name="general_no">Нет</string>
+    <string name="general_question">Вопрос</string>
+    <string name="general_resumemsg">Продолжить проигрывание?</string>
+    <string name="video_not_allowed_playing">Не удалось воспроизвести.</string>
+    <string name="video_error_text_unknown">Невозможно воспроизвести этот файл.</string>
+    <string name="video_error_streaming">Не удается воспроизвести файл из-за проблем с подключением или ошибкой содержимого.</string>
+    <string name="video_error_text_invalid_progressive_playback">Видео не пригодно для воспроизведения на данном устройстве.</string>
+    <string name="divx_auth_error">Ваше устройство не авторизовано для просмотра защищенного DivX® видео.</string>
+    <string name="divx_rental_expired_with_count" formatted="false">"Использовано %1$d из %2$d оплаченных DivX® просмотров.
+Срок аренды DivX истек."</string>
+    <string name="divx_rental_expired">Срок аренды DivX истек.</string>
+    <string name="divx_rental_confirm_choice" formatted="false">"Использовано %1$d из %2$d оплаченных DivX® просмотров.
+Продолжить?"</string>
+    <string name="divx_rental_stop_resume">Осталось %d оплаченных просмотров DivX®. Остановка уменьшит количество просмотров. Вы действительно хотите остановить?</string>
+    <string name="divx_audio_not_exist">Только видео содержимое.</string>
+    <string name="divx_audio_not_supported">Аудиоформат не поддерживается.</string>
+    <string name="divx_video_not_supported">Видеоформат не поддерживается.</string>
+    <string name="divx_resoltuion_not_supported">Разрешение видео не поддерживается.</string>
+    <string name="divx_bitrate_not_supported">Битрейт не поддерживается.</string>
+    <string name="divx_resoltuion_not_authorized">Разрешение видео не авторизовано для защищенного содержимого.</string>
+    <string name="sdcard_unmounted">SD-карта извлечена.</string>
+    <string name="msg_low_battery">Низкий заряд батареи. Видео не будет воспроизводится</string>
+    <string name="moving_thumbnail_not_supported">Закладка не поддерживается.</string>
+    <string name="notify_sound_effect_running_only_stereo_output_type">3D surround эффект работает только в наушниках.</string>
+    <string name="sync">синх</string>
+    <string name="sync_offset">0</string>
+    <string name="caption_on">Вкл</string>
+    <string name="caption_off">выкл</string>
+    <string name="movie_list">Список видеозаписей</string>
+    <string name="test">тест</string>
+    <string name="live_streaming">Live</string>
+    <string name="buffering_normal">Загрузка...</string>
+    <string name="buffering_percent">Буфферизация... %d%%</string>
+    <string name="divx_certi">DivX® VOD</string>
+    <string name="divx_NotRegDevice">Вы должны зарегистрировать ваше устройство для просмотра защищенных DivX® файлов.</string>
+    <string name="divx_registration_code_number">"
+Регистрационный код : "</string>
+    <string name="divx_RegInfo">"
+Зарегистрироваться на http://vod.divx.com"</string>
+    <string name="divx_DeregInfo">"
+Отменить регистрацию на http://vod.divx.com"</string>
+    <string name="divx_QuestionAboutDeReg">Устройство уже зарегистрировано. Вы уверены, что хотите отменить регистрацию?</string>
+    <string name="divx_DeRegCodeMessage">"Код отмены регистрации : "</string>
+    <string name="divx_ReRegMessage">"
+Продолжить регистрацию?"</string>
+    <string name="divx_CorruptedDrmMessage">DRM поврежден</string>
+    <string name="error">Ошибка</string>
+    <string name="close">Закрыть</string>
+    <string name="list_all_file">Все</string>
+    <string name="list_folder">Папка</string>
+    <string name="list_header">Видео</string>
+    <string name="list_select_all">Выбрать все</string>
+    <string name="list_deselect_all">Отменить все</string>
+    <string name="list_dialog_i_delete">Удален.</string>
+    <string name="list_dialog_deleting">Удаление...</string>
+    <string name="list_dialog_media_scanning">Сканирование медиафайлов.</string>
+    <string name="list_dialog_sdcard_shared">Используется SD-карта.</string>
+    <string name="list_dialog_phone_storage_shared">Используется память телефона.</string>
+    <string name="list_dialog_empty">Нет содержимого</string>
+    <string name="list_dialog_no_selected_item">Ничего не выбрано.</string>
+    <string name="list_dialog_q_folder_delete">"Вместе с папкой удалятся все видеозаписи.
+Удалить?"</string>
+    <string name="list_dialog_disk_checking">USB хранилище проверяется.</string>
+    <string name="list_dialog_not_stored_file">Вы не можете воспроизвести файл, поскольку он не сохранен.</string>
+    <string name="sdcard_unmounted_or_db_empty">SD-карта отключена или отсутствует.</string>
+    <string name="properties_folder">Свойства папки</string>
+    <string name="properties_foldersize">Размер папки</string>
+    <string name="properties_folderpath">Путь папки</string>
+    <string name="properties_folderdate">Дата изменения</string>
+    <string name="no_information">Нет информации</string>
+    <string name="no_resume">00:00:00</string>
+    <string name="progress_popup_title_scan">Сканировать</string>
+    <string name="list_menu_play">Воспроизвести</string>
+    <string name="list_menu_selected_play">Воспроизвести выбранные элементы</string>
+    <string name="list_menu_delete">Удалить</string>
+    <string name="list_menu_share">Передать</string>
+    <string name="list_menu_search">Поиск</string>
+    <string name="list_menu_properties">Свойства</string>
+    <string name="list_menu_sort">Порядок сортировки</string>
+    <string name="search">Поиск</string>
+    <string name="search_hint">Поиск</string>
+    <string name="search_invoke">Говорите</string>
+    <string name="search_result_title">Результаты поиска</string>
+    <string name="no_search_result">Ничего не найдено.</string>
+    <string name="list_optionsmenu_play">"Воспроизвести
+выбранные элементы"</string>
+    <string name="list_play">Воспроизвести выбранные элементы</string>
+    <string name="list_delete">Удалить</string>
+    <string name="list_share">Передать</string>
+    <string name="list_btn_confirm">Готово</string>
+    <string name="list_btn_cancel">Отмена</string>
+    <string name="list_dialog_no_sdcard">SD-карта отсутствует. Вставте SD-карту.</string>
+    <string name="video_not_allowed_playing_when_video_driven">Это видео не может быть воспроизведено, когда проигрывается видео.</string>
+    <string name="video_not_allowed_playing_when_camera_driven">Это видео не может быть воспроизведено, когда камера включена.</string>
+    <string name="activity_alert_dialog">Приложения/Диалог</string>
+    <string name="alert_dialog_two_buttons">ОК Отмена диалог с сообщением</string>
+    <string name="alert_dialog_two_buttons2">ОК Отмена диалог с длинным сообщением</string>
+    <string name="alert_dialog_select_button">Список</string>
+    <string name="alert_dialog_single_choice">Одиночный выбор</string>
+    <string name="alert_dialog_multi_choice">Уведомление о повторе</string>
+    <string name="alert_dialog_multi_choice_cursor">Позвонить на голосовую почту</string>
+    <string name="alert_dialog_progress_button">Прогресс</string>
+    <string name="alert_dialog_text_entry">Ввод текста</string>
+    <string name="alert_dialog_username">Имя:</string>
+    <string name="alert_dialog_password">Пароль:</string>
+    <string name="alert_dialog_two_buttons_title">"Lorem ipsum dolor sit aie consectetur adipiscing
+Plloaso mako nuto siwuf cakso dodtos anr koop."</string>
+    <string name="alert_dialog_two_buttons_msg">Заголовк</string>
+    <string name="alert_dialog_two_buttons2_msg">"Plloaso mako nuto siwuf cakso dodtos anr koop a cupy uf cak vux noaw yerw phuno. Whag schengos, uf efed, quiel ba mada su otrenzr.
+
+Swipontgwook proudgs hus yag su ba dagarmidad. Plasa maku noga wipont trenzsa schengos ent kaap zux comy.
+
+Wipont trenz kipg naar mixent phona. Cak pwico siructiun ruous nust apoply tyu cak Uhex sisulutiun munityuw uw dseg"</string>
+    <string name="sample_alert_dialog_ok">Ок</string>
+    <string name="alert_dialog_hide">Скрыть</string>
+    <string name="alert_dialog_something">Что то</string>
+    <string name="sample_custom_alert_dialog_cancel">Отмена</string>
+    <string name="select_dialog">Заголовок</string>
+    <string name="select_dialog_show">Список</string>
+</resources>

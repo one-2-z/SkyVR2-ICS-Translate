@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_mode_list_title">
+        <item>Опции набора</item>
+        <item>Опции получения звонка</item>
+        <item>Опции во время звонка</item>
+        <item>Расширенные опции устройства</item>
+        <item>Опции автоответа</item>
+        <item>Блокировка/разрешение звонков</item>
+        <item>Опции завершения звонка</item>
+        <item>Защита звонка</item>
+        <item>Время звонка</item>
+        <item>Настройки видеовызова</item>
+        <item>Запрает вызова</item>
+        <item>Ожидание вызовы</item>
+    </string-array>
+    <string-array name="call_mode_list_title_kt">
+        <item>Опции набора</item>
+        <item>Опции получения звонка</item>
+        <item>Опции во время звонка</item>
+        <item>Расширенные опции устройства</item>
+        <item>Опции автоответа</item>
+        <item>Блокировка/разрешение звонков</item>
+        <item>Опции завершения звонка</item>
+        <item>Время звонка</item>
+        <item>Настройки видеовызова</item>
+        <item>Запрает вызова</item>
+    </string-array>
+    <string-array name="call_mode_list_title_lgt">
+        <item>Опции набора</item>
+        <item>Опции получения звонка</item>
+        <item>Опции во время звонка</item>
+        <item>Расширенные опции устройства</item>
+        <item>Опции автоответа</item>
+        <item>Блокировка/разрешение звонков</item>
+        <item>Опции завершения звонка</item>
+        <item>Время звонка</item>
+        <item>Настройки видеовызова</item>
+    </string-array>
+    <string-array name="auto_dial_type">
+        <item>Не использовать</item>
+        <item>Автономер региона</item>
+        <item>Корея(+82)</item>
+        <item>Авто</item>
+    </string-array>
+    <string-array name="bell_vib_time_list_title">
+        <item>Немендленно</item>
+        <item>1 вибрация</item>
+        <item>5 сек звонок</item>
+        <item>10 сек звонок</item>
+    </string-array>
+    <string-array name="auto_ans_mode_list_title">
+        <item>Главный</item>
+        <item>За рулем</item>
+        <item>Конференция</item>
+        <item>Занят</item>
+    </string-array>
+    <string-array name="auto_ans_voice_message">
+        <item>Вызов недоступен в данный момент.</item>
+        <item>Вызов недоступен в данный момент, потому что вы за рулем.</item>
+        <item>Вызов недоступен в данный момент, потому что конференция.</item>
+        <item>Вызов недоступен в данный момент.</item>
+    </string-array>
+    <string-array name="call_acc_rej_list_title">
+        <item>Разрешить/запретить звонки</item>
+        <item>Добавить разрешенный номер.</item>
+        <item>Добавить запрещенный номер.</item>
+    </string-array>
+    <string-array name="call_acc_rej_mode_list_title">
+        <item>Разрешить все</item>
+        <item>Блокирвать все звонки</item>
+        <item>Блокировать звонки</item>
+        <item>Разрешить звонки</item>
+    </string-array>
+    <string-array name="voice_info_list_title">
+        <item>Сообщение 1</item>
+        <item>Сообщение 2</item>
+        <item>Сообщение 3</item>
+    </string-array>
+    <string-array name="voice_info_list_filepath">
+        <item>/system/media/audio/callreject/callreject1.ogg</item>
+        <item>/system/media/audio/callreject/callreject2.ogg</item>
+        <item>/system/media/audio/callreject/callreject3.ogg</item>
+    </string-array>
+    <string-array name="call_acc_menu_list_title">
+        <item>Добавить номер</item>
+        <item>добавить группу</item>
+    </string-array>
+    <string-array name="call_rej_menu_list_title">
+        <item>Добавить номер</item>
+        <item>Добавить группу</item>
+    </string-array>
+    <string-array name="call_acc_rej_num_popup_text">
+        <item>Поиск</item>
+        <item>Поиск</item>
+        <item>История звонков</item>
+        <item>Телефонная книга</item>
+        <item>Список вызовов</item>
+    </string-array>
+    <string-array name="calltime_list">
+        <item>Последний звонок</item>
+        <item>Набранные голосовые вызовы</item>
+        <item>Полученные голосовые вызовы</item>
+        <item>Набранные видеовызовы</item>
+        <item>Полученные видеовызовы </item>
+        <item>Всего вызовов</item>
+        <item>Вызовы за все время</item>
+    </string-array>
+    <string-array name="kt_calltime_list">
+        <item>Последний звонок</item>
+        <item>Набранные голосовые вызовы</item>
+        <item>Полученные голосовые вызовы</item>
+        <item>Набранные видеовызовы</item>
+        <item>Полученные видеовызовы </item>
+        <item>Всего вызовов</item>
+        <item>Вызовы за все время</item>
+    </string-array>
+    <string-array name="lgu_calltime_list">
+        <item>Последний звонок</item>
+        <item>Набранные голосовые вызовы</item>
+        <item>Полученные голосовые вызовы</item>
+        <item>Набранные видеовызовы</item>
+        <item>Полученные видеовызовы </item>
+        <item>Всего вызовов</item>
+        <item>Вызовы за все время</item>
+    </string-array>
+</resources>

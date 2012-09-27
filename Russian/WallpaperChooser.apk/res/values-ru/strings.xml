@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="chooser_wallpaper">Выбрать фоновый рисунок из</string>
+    <string name="wallpaper_instructions">Установить фон</string>
+    <string name="pick_wallpaper">Обои</string>
+</resources>

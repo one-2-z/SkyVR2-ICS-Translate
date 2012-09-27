@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_dialog_items">
+        <item>Command one</item>
+        <item>Command two</item>
+        <item>Command three</item>
+        <item>Command four</item>
+    </string-array>
+    <string-array name="select_dialog_items2">
+        <item>Карта</item>
+        <item>Спутник</item>
+        <item>Трафик</item>
+        <item>Просмотр улиц</item>
+    </string-array>
+    <string-array name="select_dialog_items3">
+        <item>Каждый понедельник</item>
+        <item>Каждый вторник</item>
+        <item>Каждую среду</item>
+        <item>Каждый четверг</item>
+        <item>Каждую пятницу</item>
+        <item>Каждую субботу</item>
+        <item>Каждое воскресенье</item>
+    </string-array>
+    <string-array name="items_arrange_dialog">
+        <item>Сортировать по заголовку</item>
+        <item>Сортировать по дате</item>
+        <item>Сортировать по размеру</item>
+    </string-array>
+    <string-array name="items_file_list_quick_dialog">
+        <item>Удалить</item>
+        <item>Передать</item>
+        <item>Найти</item>
+        <item>Свойства</item>
+    </string-array>
+    <string-array name="items_folder_list_quick_dialog">
+        <item>Воспроизвести</item>
+        <item>Удалить</item>
+        <item>Передать</item>
+        <item>Детали</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AOT Менеджер звонков</string>
+    <string name="pcu_aot_call">Текущий звонок</string>
+    <string name="pcu_in_call">В вызове</string>
+    <string name="pcu_end_call">Завершить звонок</string>
+    <string name="pcu_end_swap">Сменить</string>
+    <string name="pcu_onHold">Удержан</string>
+    <string name="pcu_unknown">Неизвестно</string>
+    <string name="pcu_call_ended">Звонок завершен</string>
+</resources>
