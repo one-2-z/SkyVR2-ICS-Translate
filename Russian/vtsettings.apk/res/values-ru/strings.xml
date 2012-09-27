@@ -45,7 +45,7 @@
     <string name="no_setted_fail">Элемент с ошибкой не может быть установлен.</string>
     <string name="no_setted_remote">"Экран партнера не может быть установлен."</string>
     <string name="no_setted_lock">Заблокированный элемент не может быть установлен.</string>
-    <string name="no_file">Нет файла.</string>
+    <string name="no_file">Нет файла</string>
     <string name="no_read_file">Файл отсутствует либо оишбка базы данных.</string>
     <string name="alter_image">Установить маску</string>
     <string name="no_selected">Нет выбранных элементов.</string>
