@@ -65,7 +65,8 @@
     <string name="str_fail_msg_load_and_select_ui">Превышено максимальное количество приложений. Выбрать файлы заново?</string>
     <string name="str_fail_attach_max_count">Превышено максимальное количество приложений.</string>
     <string name="str_fail_load_invalid_media">Вложен неверный файл</string>
-    <string name="str_kt_read_deliver_report">Получение отчета о доставке SMS стоит 20 won за сообщения, а MMS бесплатно.</string>
+    <string name="str_fail_attach_media_by_forward_size">"Превышен максимальный лимит приложения. Там могут быть некоторые файлы, которые не могут быть переадресованы."</string>
+	<string name="str_kt_read_deliver_report">Получение отчета о доставке SMS стоит 20 won за сообщения, а MMS бесплатно.</string>
     <string name="str_modified_recipient">Измененный адрес.</string>
     <string name="kaf_init_error_1">Ошибка!. Пожалуйста, перезапустите приложение.</string>
     <string name="str_wrong_roaming_num">Невозможно добавить номера, содеражщие код страны и международный код доступа (+), исключая код Кореи (+82).</string>
@@ -387,7 +388,8 @@
     <string name="chat_menu_delete">Удалить</string>
     <string name="chat_menu_move_n_copy">Переместить/Скопировать</string>
     <string name="chat_menu_forward">Вперед</string>
-    <string name="str_menu_copy_to_usim">Копировать на SIM-карту</string>
+    <string name="chat_menu_add_contact">Сохранить контакт</string>
+	<string name="str_menu_copy_to_usim">Копировать на SIM-карту</string>
     <string name="str_menu_move_to_usim">Переместить на SIM-карту</string>
     <string name="str_savebox_move">Сохранить</string>
     <string name="str_copy_to_usim_success">Скопировано на SIM.</string>
@@ -433,6 +435,7 @@
     <string name="add_contact">добавить в контакт</string>
     <string name="contact_info">Информация о контакте</string>
     <string name="str_contact_info_message">Загрузка информации о контакте.</string>
+	<string name="str_delete_record_file">Файлы удаляются.</string>
     <string name="str_popmenu_search">Поиск</string>
     <string name="str_search_all">Все</string>
     <string name="str_search_body">Содержимое</string>
@@ -868,7 +871,8 @@
     <string name="http_error">Ошибка в сообщениее.</string>
     <string name="http_error_400">Ошибка 400. Попробуйте позже.</string>
     <string name="http_error_401">Требуется аутентификация. Ошибка 401</string>
-    <string name="http_error_404">Ошибка 404</string>
+    <string name="http_error_410">Произошла ошибка удаленных сообщений. Ошибка 410</string>
+	<string name="http_error_404">Ошибка 404</string>
     <string name="http_error_500">Внутренняя ошибка 500</string>
     <string name="str_do_not_recv_message_at_low_mem">Нет доступной памяти для приема сообщений.</string>
     <string name="str_msg_low_storage_view_title">Превышена емкость памяти</string>

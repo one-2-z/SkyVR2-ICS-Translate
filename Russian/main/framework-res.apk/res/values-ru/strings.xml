@@ -27,7 +27,7 @@
     <string name="config_ethernet_iface_regex">eth\\d</string>
     <string name="config_tether_apndata" />
     <string name="config_wifi_p2p_device_type">10-0050F204-5</string>
-    <string name="default_wallpaper_component">@null</string>
+    <string name="default_wallpaper_component">com.pantech.wallpaper.multiphoto/.PhotoService</string>
     <string name="config_networkLocationProvider">com.google.android.location.NetworkLocationProvider</string>
     <string name="config_geocodeProvider">com.google.android.location.GeocodeProvider</string>
     <string name="config_datause_iface">rmnet0</string>
@@ -1422,7 +1422,13 @@
     <string name="permlab_bindAlwaysOnTop">поверх всех окон</string>
     <string name="permdesc_bindAlwaysOnTop">Позволяет владельцу связываться с верхнего уровня интерфейса поверх всех окон. Не требуется для обычных приложений.</string>
     <string name="alwaysontop">Поверх всех окон</string>
-    <string name="restart">Перезагрузить</string>
+    <string name="aot_on_the_phone">Не удалось запустить мини Окно во время звонка.</string>
+    <string name="aot_music">Музыка</string>
+    <string name="aot_tdmb">T-DMB</string>
+    <string name="aot_dic">Словарь</string>
+    <string name="aot_note">Блокнот</string>
+    <string name="aot_video">Видео</string>
+	<string name="restart">Перезагрузить</string>
     <string name="reboot_confirm">Телефон будет перезагружен.</string>
     <string name="global_action_restart">Перезагрузить</string>
     <string name="lockscreen_too_many_failed_attempts_dialog_message_for_pin_and_password" formatted="false">"Неправильно введено %d раз. 
@@ -1443,8 +1449,9 @@ MMM dd"</string>
     <string name="sky_gesture_date_roaming_format">EE, MMM dd</string>
     <string name="sky_hold_gesture_error_text">Повторить после проверки жеста.</string>
     <string name="sky_hold_gesture_help_text">"Нарисуйте фигуру, 
-чтобы выполнить действие"</string>
-    <string name="sky_hold_gesture_help_sub_text">Пожалуйста, нарисуйте значки меню</string>
+чтобы выполнить действие"
+</string>
+    <string name="sky_hold_gesture_help_sub_text">Пожалуйста, нарисуйте фигуры действий</string>
     <string name="sky_hold_gesture_help_emergency_text">Экстренный вызов</string>
     <string name="sky_hold_gesture_slide_home">Разблокировать</string>
     <string name="sky_hold_gesture_slide_call">Звонок</string>
@@ -1476,6 +1483,7 @@ MMM dd"</string>
 www.skyservice.co.kr homepage, 'Unlock' service can be used through 'Unlock' menu."</string>
     <string name="sky_bgp_no_title">Музыка не найдена</string>
     <string name="sky_bgp_no_subinfo">Музыка</string>
+	<string name="sky_skt_fota_title">Телефон службы обеспечения</string>
     <string name="otg_host_cable_connected_notification_title">USB-хост кабель подключен</string>
     <string name="otg_host_cable_disconnected_notification_title">USB-хост кабель отключен</string>
     <string name="otg_dev_active_notification_title">USB-устройство подключено</string>
