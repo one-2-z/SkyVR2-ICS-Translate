@@ -471,4 +471,15 @@
     <string-array name="alwayson_settings_popup_values">
         <item>0</item>
     </string-array>
+	<string-array name="network_indicator_set_entries">
+        <item>по зоне обслуживания</item>
+        <item>по использованию сети</item>
+    </string-array>
+    <string-array name="network_indicator_set_entryvalues">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="wifi_p2p_group_wps_setup">
+        <item>Push-кнопка</item>
+    </string-array>
 </resources>

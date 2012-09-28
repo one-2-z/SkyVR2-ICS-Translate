@@ -635,7 +635,8 @@
     <string name="volume_media_description">Музыка, видео, игры и другие медиафайлы</string>
     <string name="volume_ring_description">Рингтон и уведомления</string>
     <string name="volume_notification_description">Оповещения</string>
-    <string name="volume_alarm_description">Будильник</string>
+    <string name="volume_system_description">Системные</string>
+	<string name="volume_alarm_description">Будильник</string>
     <string name="dock_settings">Док-станция</string>
     <string name="dock_settings_title">Настройки док-станции</string>
     <string name="dock_audio_settings_title">Аудио</string>
@@ -1633,9 +1634,10 @@
     <string name="haptic_feedback_enable_summary">Вибрация при нажатии на определенные приложения пользовательского взаимодействия</string>
     <string name="easy_up_title">Обновление версии</string>
     <string name="call_svc_settings">Параметры вызовов</string>
-    <item type="string" name="APKTOOL_DUMMY_0638">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0639">false</item>
-    <item type="string" name="APKTOOL_DUMMY_063a">false</item>
+    <string name="developer_activity_dialog_title">Внимание</string>
+    <string name="developer_activity_dialog">Если вы используете эту опцию в некоторых приложениях могут возникнуть ошибки.</string>
+    <string name="developer_activity_check">Да</string>
+    <string name="developer_activity_uncheck">Отмена</string>
     <string name="bluetooth_not_printer">Пожалуйста, выберите устройство печати.</string>
     <string name="bluetooth_unable_to_change_name_off">Не удалось изменить название устройство, потому что Bluetooth выключен</string>
     <string name="bluetooth_off">Bluetooth выключен</string>
@@ -1962,6 +1964,8 @@
     <string name="starting_usb_tethering">Включение ...</string>
     <string name="ending_usb_tethering">Выключение ...</string>
     <string name="skt_t_roaming">T roaming</string>
+	<string name="network_indicator_set_title">Отображать состояние сети</string>
+    <string name="wifi_p2p_couldnot_connect_between_both_devices_Group_Owner">Владелец группы не может подключиться к другому владельцу группы</string>
     <string name="usb_connection_summary">Выбранный режим подключения будет использован при последующих USB подключениях</string>
     <string name="usb_sdcard_title">Внешняя память (Только SD-карта)</string>
     <string name="usb_sdcard_summary">Определить SD-карту как внешняя память и передать файлы на/с ПК.</string>
@@ -2002,4 +2006,12 @@
     <string name="tips_pcmode_tip2">"Управление файлами установленными на ПК инструментами.
 Управление файлами зависит от установленных инструментов на ПК."</string>
     <string name="usb_mtp_summary_lgu">Импорт/экспорт медиа файлов из внутренней памяти и SD-карты на ПК. Возможна синхронизация с Window Media Player.</string>
+<string name="dialog_mtp_tips">"Media device (MTP), you may have to install additional programs suitable for your PC OS.
+For further information, touch Tips button underneath ‘USB connection settings’."</string>
+    <string name="dialog_ptp_tips">"To use Camera (PTP), you may have to install additional programs suitable for your PC OS.
+For further information, touch Tips button underneath ‘USB connection settings’."</string>
+    <string name="dialog_do_not_show_again">Не показывать снова</string>
+    <item type="string" name="APKTOOL_DUMMY_063d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_063e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_063f">false</item>
 </resources>
