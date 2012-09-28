@@ -743,8 +743,6 @@
         <item>@raw/thumb_google</item>
         <item>@raw/favicon_yahoo</item>
         <item>@raw/thumb_yahoo</item>
-        <item>@raw/favicon_paran</item>
-        <item>@raw/thumb_paran</item>
         <item>@raw/favicon_accuweather</item>
         <item>@raw/thumb_accuweather</item>
         <item>@raw/favicon_skyservice</item>
@@ -761,8 +759,6 @@
         <item>@raw/thumb_google</item>
         <item>@raw/favicon_nate</item>
         <item>@raw/thumb_nate</item>
-        <item>@raw/favicon_paran</item>
-        <item>@raw/thumb_paran</item>
         <item>@raw/favicon_uplus</item>
         <item>@raw/thumb_uplus</item>
         <item>@raw/favicon_accuweather</item>
@@ -865,16 +861,18 @@
         <item>@string/pref_data_preload_value_always</item>
     </array>
     <string-array name="bookmarks">
-        <item>Google</item>
-        <item>http://www.google.co.kr/</item>
-        <item>KoXDA Forum</item>
-        <item>http://koxda.com/</item>
-        <item>KoXDA Microblog</item>
-        <item>http://weibo.com/koxda</item>
-        <item>Teamleader Microblog</item>
-        <item>http://weibo.com/teamleader0117</item>
+        <item>Naver</item>
+        <item>http://www.naver.com/</item>
+        <item>Daum</item>
+        <item>http://www.daum.net/</item>
+        <item>Nate</item>
+        <item>http://www.nate.com/</item>
         <item>Yahoo!</item>
         <item>http://kr.yahoo.com/</item>
+        <item>T world</item>
+        <item>http://www.tworld.co.kr/</item>
+        <item>T world shop</item>
+        <item>http://www.tworldshop.co.kr/</item>
         <item>AccuWeather</item>
         <item>http://www.accuweather.com/?p=pantech</item>
         <item>SKY Service</item>
@@ -891,8 +889,6 @@
         <item>http://www.google.co.kr/</item>
         <item>Yahoo!</item>
         <item>http://kr.yahoo.com/</item>
-        <item>Paran</item>
-        <item>http://www.paran.com/</item>
         <item>AccuWeather</item>
         <item>http://www.accuweather.com/?p=pantech</item>
         <item>SKY Service</item>
@@ -909,8 +905,6 @@
         <item>http://www.google.co.kr/</item>
         <item>Nate</item>
         <item>http://www.nate.com/</item>
-        <item>Paran</item>
-        <item>http://www.paran.com/</item>
         <item>LG U+</item>
         <item>http://www.uplus.co.kr/</item>
         <item>AccuWeather</item>
