@@ -583,7 +583,7 @@
     <string name="location_gps">Use GPS satellites</string>
     <string name="location_street_level">When locating, accurate to street level (uncheck to conserve battery)</string>
     <string name="location_gps_disabled">Locate to street-level (requires more battery plus view of sky)</string>
-    <string name="location_gps">Спутники GPS</string>
+    <string name="assisted_gps">Использовать А-GPS</string>
     <string name="assisted_gps_enabled">Использовать сервер для A-GPS (снимите флажок для менее интенсивного использования сети)</string>
     <string name="assisted_gps_disabled">Использовать сервер для A-GPS (снимите флажок для улучшения работы GPS)</string>
     <string name="use_location_title">Использовать мое местоположение</string>
@@ -720,7 +720,7 @@
     <string name="service_process_name">Процесс: %1$s</string>
     <string name="language_settings">Язык и ввод</string>
     <string name="language_keyboard_settings_title">Язык и ввод</string>
-    <string name="language_settings_category">Языковые настройки</string>
+    <string name="language_settings_summary">Установить регион (язык и регион), ввод текста и настройки автокоррекции</string>
     <string name="language_category">Настройки языка</string>
     <string name="text_category">Настройки текста</string>
     <string name="phone_language">Язык</string>
@@ -885,7 +885,7 @@
     <string name="use_default_tts_settings_title">Только мои настройки</string>
     <string name="use_default_tts_settings_summary">Настройки по умолчанию переопределяют настройки приложений</string>
     <string name="tts_default_settings_section">Настройки по умолчанию</string>
-    <string name="tts_default_synth_title">Система по умолчанию</string>
+    <string name="tts_default_rate_title">Скорость речи</string>
     <string name="tts_default_rate_summary">Скорость чтения текста</string>
     <string name="tts_default_pitch_title">Тон</string>
     <string name="tts_default_pitch_summary">Влияет на высоту синтезированной речи</string>
