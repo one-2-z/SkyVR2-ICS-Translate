@@ -52,7 +52,7 @@
     <string name="duplicate_number">повторяющийся номер</string>
     <string name="clir_title">Запрет определения номера</string>
     <string name="clir_set">Запрет определения номера</string>
-    <string name="calltime">Время вызово</string>
+    <string name="calltime">Время вызовов</string>
     <string name="call_acc_mode_no_list">Установить после регистрации звонка разрешенный номер/группу</string>
     <string name="call_rej_mode_no_list">Установить после регистрации звонка запрешенный номер/группу</string>
     <string name="information">Внимание</string>
@@ -82,7 +82,7 @@
     <string name="aot_option_title">Настройки во время звонка</string>
     <string name="aot_option">Отображать окно состояния звонка</string>
     <string name="aot_option_summary">Если вы нажмете кнопку Home во время звонка, окно состояния вызова будет отображено. In Call-кнопка вернет на экран звонка.</string>
-    <string name="calltime_header">Время звонков</string>
+    <string name="calltime_header">Длительность звонков</string>
     <string name="calltime_init_popup_title">Сбросить</string>
     <string name="calltime_init_popup_msg">Сбросить все кроме Вызовов за все время?</string>
 </resources>
