@@ -537,7 +537,6 @@
     <string name="address_display_name" formatted="false">%1$s, другие %2$d</string>
     <string name="str_confirm">Подтвердить</string>
     <string name="inout_msg">Диалоги</string>
-    <string name="inout_msg">Диалоги</string>
     <string name="store_msg">Сохраненные</string>
     <string name="usim_msg">Сообщения на SIM</string>
     <string name="inbox_msg">Входящие</string>
