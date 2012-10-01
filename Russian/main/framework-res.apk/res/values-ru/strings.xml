@@ -1038,6 +1038,7 @@
     <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct включен</string>
     <string name="wifi_p2p_enabled_notification_message">Коснитесь для настроек</string>
     <string name="select_character">Введите символ</string>
+    <string name="sms_control_default_app_name">Неизвестное приложение</string>
     <string name="sms_control_title">Отправка SMS-сообщений</string>
     <string name="sms_control_message">Отправляется большое количество SMS-сообщений. Нажмите \"ОК\" для продолжения или \"Отмена\" для прекращения отправки.</string>
     <string name="sms_control_yes">ОК</string>
@@ -1051,7 +1052,6 @@
     <string name="time_picker_dialog_title">Настройка времени</string>
     <string name="date_picker_dialog_title">Настройка даты</string>
     <string name="date_time_set">Установить</string>
-    <string name="date_time_done">Готово</string>
     <string name="default_permission_group">По умолчанию</string>
     <string name="permissions_format">%1$s, %2$s</string>
     <string name="no_permissions">Не требуется разрешений</string>
