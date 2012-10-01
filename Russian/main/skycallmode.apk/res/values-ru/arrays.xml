@@ -9,9 +9,9 @@
         <item>Блокировка/разрешение звонков</item>
         <item>Опции завершения звонка</item>
         <item>Защита звонка</item>
-        <item>Время звонка</item>
+        <item>Длительность звонков</item>
         <item>Настройки видеовызова</item>
-        <item>Запрает вызова</item>
+        <item>Запрет вызова</item>
         <item>Ожидание вызовы</item>
     </string-array>
     <string-array name="call_mode_list_title_kt">
@@ -22,7 +22,7 @@
         <item>Опции автоответа</item>
         <item>Блокировка/разрешение звонков</item>
         <item>Опции завершения звонка</item>
-        <item>Время звонка</item>
+        <item>Длительность звонков</item>
         <item>Настройки видеовызова</item>
         <item>Запрает вызова</item>
     </string-array>
@@ -34,7 +34,7 @@
         <item>Опции автоответа</item>
         <item>Блокировка/разрешение звонков</item>
         <item>Опции завершения звонка</item>
-        <item>Время звонка</item>
+        <item>Длительность звонков</item>
         <item>Настройки видеовызова</item>
     </string-array>
     <string-array name="auto_dial_type">
