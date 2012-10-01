@@ -4,7 +4,7 @@
         <item>Домашний</item>
         <item>Рабочий</item>
         <item>Другой</item>
-        <i<item>Создать свой ярлык</item>
+        <item>Создать свой ярлык</item>
     </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
