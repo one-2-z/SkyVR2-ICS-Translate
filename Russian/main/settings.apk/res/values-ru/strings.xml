@@ -1625,7 +1625,7 @@
     <string name="title_cno_measurement">Измерение CNo</string>
     <string name="title_value_cno">CNo :</string>
     <string name="battery_level_in_number_title">Заряд в процентах(%)</string>
-    <string name="battery_level_in_number_summary">Отображать оставшийся заряд в процентах в верху экрана</string>
+    <string name="battery_level_in_number_summary">Отображать оставшийся заряд в процентах вверху экрана</string>
     <string name="usim_check">пожалуйста, подождите..</string>
     <string name="smart_update">Smart update</string>
     <string name="password_dont_match">"Новый пароль и подтверждение не совпадают."</string>
