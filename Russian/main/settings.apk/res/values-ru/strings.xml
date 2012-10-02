@@ -616,7 +616,7 @@
     <string name="musicfx_title">Звуковые эффекты</string>
     <string name="ring_volume_title">Громкость вызова</string>
     <string name="vibrate_in_silent_title">Вибрировать без звука</string>
-    <string name="vibrate_on_ring_title">Вибрировать при звонка</string>
+    <string name="vibrate_on_ring_title">Вибрировать при звонке</string>
     <string name="notification_sound_title">Уведомление по умолчанию</string>
     <string name="notification_pulse_title">Мигать при уведомлении</string>
     <string name="incoming_call_volume_title">Мелодия</string>
@@ -636,7 +636,7 @@
     <string name="volume_ring_description">Рингтон и уведомления</string>
     <string name="volume_notification_description">Оповещения</string>
     <string name="volume_system_description">Системные</string>
-	<string name="volume_alarm_description">Будильник</string>
+    <string name="volume_alarm_description">Будильник</string>
     <string name="dock_settings">Док-станция</string>
     <string name="dock_settings_title">Настройки док-станции</string>
     <string name="dock_audio_settings_title">Аудио</string>
@@ -1631,7 +1631,7 @@
     <string name="password_dont_match">"Новый пароль и подтверждение не совпадают."</string>
     <string name="new_backup_password_set">Новый пароль резервного копирования установлен.</string>
     <string name="failure_setting_backup_password">Не удалось установить пароль резервного копирования.</string>
-    <string name="haptic_feedback_enable_summary">Вибрация при нажатии на определенные приложения пользовательского взаимодействия</string>
+    <string name="haptic_feedback_enable_summary">Вибрировать при нажатии на определенные области пользовательского интерфейса</string>
     <string name="easy_up_title">Обновление версии</string>
     <string name="call_svc_settings">Параметры вызовов</string>
     <string name="developer_activity_dialog_title">Внимание</string>
