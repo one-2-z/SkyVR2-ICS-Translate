@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+
+
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:background="#70000000"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+
+
+>
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:id="@id/info_panel" android:layout_marginTop="28.0px" android:orientation="vertical"
+
+
+
+>
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@id/carrier" android:layout_marginLeft="26.0px" android:singleLine="true" android:ellipsize="marquee" android:layout_gravity="left" android:textAppearance="?textAppearanceMedium" android:textSize="32.0px" android:textColor="#ccffffff"
+
+
+
+ />
+
+    </FrameLayout>
+
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:id="@id/roam_info_panel" android:layout_marginTop="162.0px" android:orientation="vertical"
+
+
+
+>
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@id/roaming_info" android:layout_marginLeft="24.0px" android:singleLine="true" android:layout_gravity="left" android:textAppearance="?textAppearanceMedium" android:textSize="28.0px" android:textColor="#ffffffff" android:text="@string/sky_roaming_title"
+
+
+
+
+
+ />
+
+
+
+        <Button android:layout_width="144.0px" android:layout_height="52.0px" android:background="@drawable/sky_roaming_guide_6knob_btn" android:id="@id/roaming_btn" android:layout_marginLeft="170.0px" android:layout_gravity="left" android:textSize="26.0px" android:textColor="#1e1e1e" android:text="@string/sky_roaming_help"
+
+
+
+
+ />
+
+
+    </FrameLayout>
+
+
+
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@id/panel_background" android:layout_marginTop="276.0px" android:layout_centerHorizontal="true"
+
+
+>
+        <FrameLayout android:layout_width="704.0px" android:layout_height="704.0px" android:id="@id/layer_panel_background"
+
+
+>
+            <ImageView android:layout_width="704.0px" android:layout_height="704.0px" android:id="@id/image_panel_background" android:scaleType="fitXY" android:src="@drawable/bg_6knob_panel_big"
+
+ />
+
+        </FrameLayout>
+    </RelativeLayout>
+
+
+
+
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@id/flipper_panel" android:layout_marginTop="428.0px" android:layout_centerHorizontal="true"
+
+
+
+>
+        <FrameLayout android:layout_width="412.0px" android:layout_height="426.0px" android:id="@id/flipper_layer"
+
+
+>
+            <ImageView android:layout_width="412.0px" android:layout_height="426.0px" android:id="@id/flipper_bg_panel" android:scaleType="fitXY" android:src="@drawable/bg_6knob_hold"
+
+ />
+
+
+
+            <ImageView android:layout_width="412.0px" android:layout_height="426.0px" android:id="@id/default_panel" android:scaleType="fitXY" android:src="@drawable/bg_6knob_default" android:visibility="visible"
+
+
+ />
+
+
+
+
+            <LinearLayout android:layout_width="412.0px" android:layout_height="426.0px" android:id="@id/missed_comm_panel" android:orientation="vertical" android:visibility="gone" android:gravity="center_horizontal"
+
+
+
+>
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@id/TView_string_guide" android:layout_marginTop="170.0px" android:layout_gravity="center" android:textAppearance="?textAppearanceMedium" android:textSize="32.0px" android:textColor="#d84403" android:text="@string/sky_missed_comm_guide" android:gravity="center"
+
+
+
+
+
+
+
+ />
+            </LinearLayout>
+
+
+
+
+            <FrameLayout android:layout_width="412.0px" android:layout_height="162.0px" android:id="@id/fuel_gauge_panel"
+
+>
+                <ImageView android:layout_width="38.0px" android:layout_height="50.0px" android:id="@id/image_view_batt_icon" android:layout_marginTop="46.0px" android:layout_marginLeft="150.0px" android:layout_gravity="top|left|center" android:src="@drawable/battery_6knob_icon"
+
+
+
+ />
+
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@id/battery_level" android:layout_marginTop="46.0px" android:layout_marginLeft="194.0px" android:layout_gravity="top|left|center" android:textAppearance="?textAppearanceMedium" android:textSize="36.0px" android:textColor="#0373c7"
+
+
+
+
+
+ />
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </FrameLayout>
+
+
+        </FrameLayout>
+
+
+    </RelativeLayout>
+
+
+
+
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:id="@id/clock_pane"
+
+>
+        <com.android.internal.widget.SkyDigitalClock android:layout_width="336.0px" android:layout_height="wrap_content" android:id="@id/local_clock_pane" android:layout_marginTop="530.0px" android:orientation="vertical" android:layout_marginLeft="194.0px" android:visibility="gone"
+
+
+
+
+
+>
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@id/normal_date" android:layout_gravity="center" android:textAppearance="?textAppearanceMedium" android:textSize="32.0px" android:textColor="#ff6e6e6e"
+
+
+
+ />
+
+
+
+
+            <ImageView android:layout_width="336.0px" android:layout_height="12.0px" android:background="@drawable/clock_bar_6knob" android:id="@id/image_view_dividing_bar_local" android:layout_marginTop="19.0px" android:gravity="center_horizontal"
+
+
+ />
+
+
+
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@id/normal_timeDisplay" android:layout_marginTop="-6.0px" android:layout_gravity="center" android:textAppearance="?textAppearanceMedium" android:textSize="96.0px" android:textColor="#ff232323"
+
+
+
+
+
+ />
+
+
+
+            <TextView android:layout_width="wrap_content" android:layout_height="44.0px" android:background="@drawable/icon_6knob_clock_ampm_bg_nor" android:id="@id/normal_ampm" android:layout_marginTop="12.0px" android:layout_gravity="center" android:textAppearance="?textAppearanceMedium" android:textSize="26.0px" android:textColor="#fffefe" android:visibility="gone" android:gravity="center"
+
+
+
+
+
+
+
+
+ />
+
+        </com.android.internal.widget.SkyDigitalClock>
+
+
+
+
+
+
+        <com.android.internal.widget.SkyRoamingDigitalClock android:layout_width="fill_parent" android:layout_height="wrap_content" android:id="@id/roaming_clock_pane" android:layout_marginTop="524.0px" android:orientation="vertical" android:visibility="gone"
+
+
+
+>
+            <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="vertical" android:layout_gravity="center_horizontal"
+
+
+
+
+>
+                <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal" android:layout_gravity="center_horizontal"
+
+
+
+>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@id/roaming_ampm_seoul" android:textAppearance="?textAppearanceMedium" android:textSize="26.0px" android:textColor="#ffbd1313" android:visibility="visible"
+
+
+
+
+ />
+
+
+
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@id/roaming_date_seoul" android:layout_marginLeft="16.0px" android:textAppearance="?textAppearanceMedium" android:textSize="26.0px" android:textColor="#ff838383"
+
+
+
+ />
+
+
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0px" android:textAppearance="?textAppearanceMedium" android:textSize="26.0px" android:textColor="#ff3d3d3d" android:text="@string/sky_roaming_seoul"
+
+
+
+ />
+                </LinearLayout>
+
+
+
+                <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="vertical" android:layout_gravity="center_horizontal" android:gravity="center_horizontal"
+
+>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@id/roaming_timeDisplay_seoul" android:layout_marginTop="-20.0px" android:layout_gravity="center_horizontal" android:textAppearance="?textAppearanceMedium" android:textSize="70.0px" android:textColor="#ff232323" android:gravity="center"
+
+
+
+
+
+
+ />
+                </LinearLayout>
+
+
+
+
+                <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="vertical" android:layout_gravity="center_horizontal" android:gravity="center_horizontal"
+
+
+>
+                    <ImageView android:layout_width="336.0px" android:layout_height="12.0px" android:background="@drawable/clock_bar_6knob" android:id="@id/image_view_dividing_bar_roaming" android:layout_marginTop="-8.0px" android:gravity="center_horizontal"
+
+
+ />
+                </LinearLayout>
+
+
+
+
+                <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="vertical" android:layout_gravity="center_horizontal" android:gravity="center_horizontal"
+
+>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@id/roaming_timeDisplay_local" android:layout_marginTop="-10.0px" android:layout_gravity="center_horizontal" android:textAppearance="?textAppearanceMedium" android:textSize="70.0px" android:textColor="#ff232323" android:gravity="center"
+
+
+
+
+
+
+ />
+                </LinearLayout>
+
+
+
+                <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="-16.0px" android:orientation="horizontal" android:layout_gravity="center_horizontal"
+
+
+
+
+>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@id/roaming_ampm_local" android:textAppearance="?textAppearanceMedium" android:textSize="26.0px" android:textColor="#ffbd1313" android:visibility="visible"
+
+
+
+
+ />
+
+
+
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@id/roaming_date_local" android:layout_marginLeft="16.0px" android:textAppearance="?textAppearanceMedium" android:textSize="26.0px" android:textColor="#ff838383"
+
+
+
+ />
+
+
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0px" android:layout_gravity="center_horizontal" android:textAppearance="?textAppearanceMedium" android:textSize="26.0px" android:textColor="#ff3d3d3d" android:text="@string/sky_roaming_current"
+
+
+
+
+ />
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+        </com.android.internal.widget.SkyRoamingDigitalClock>
+
+    </LinearLayout>
+
+
+
+
+
+
+    <FrameLayout android:layout_width="412.0px" android:layout_height="426.0px" android:id="@id/full_charged_notification_panel" android:layout_marginTop="428.0px" android:layout_centerHorizontal="true" android:visibility="gone" android:gravity="center"
+
+
+
+
+>
+        <ImageView android:layout_width="38.0px" android:layout_height="98.0px" android:id="@id/image_view_batt_icon_full_charge" android:layout_marginTop="70.0px" android:layout_marginLeft="122.0px" android:layout_gravity="top|left|center" android:src="@drawable/battery_full_6knob_icon"
+
+
+
+ />
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@id/text_view_batt_full" android:layout_marginTop="80.0px" android:layout_marginLeft="192.0px" android:layout_gravity="top|left|center" android:textAppearance="?textAppearanceMedium" android:textSize="25.0px" android:textColor="#e65014" android:text="@string/string_6knob_batt_full_text"
+
+
+
+
+
+ />
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@id/text_view_batt_full_percent" android:layout_marginTop="140.0px" android:layout_marginLeft="192.0px" android:layout_gravity="top|left|center" android:textAppearance="?textAppearanceMedium" android:textSize="18.0px" android:textColor="#e65014" android:text="@string/string_6knob_batt_full_percent"
+
+
+
+
+
+ />
+
+        <ImageView android:layout_width="336.0px" android:layout_height="12.0px" android:background="@drawable/clock_bar_6knob" android:id="@id/image_view_full_charge_dividing_bar" android:layout_marginTop="164.0px" android:layout_marginLeft="39.0px" android:layout_gravity="top|left|center"
+
+
+
+ />
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@id/TV_full_charged_message01" android:layout_marginTop="216.0px" android:layout_gravity="top|center" android:textSize="26.0px" android:textColor="#2a2a2a" android:layout_centerHorizontal="true" android:scaleType="center"
+
+
+
+ />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@id/TV_full_charged_message02" android:layout_marginTop="260.0px" android:layout_gravity="top|center" android:textSize="18.0px" android:textColor="#2a2a2a" android:layout_centerHorizontal="true" android:scaleType="center"
+
+
+
+ />
+    </FrameLayout>
+
+
+
+
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="100.0px" android:orientation="horizontal" android:layout_marginLeft="24.0px" android:gravity="left"
+
+
+
+
+
+
+
+
+
+
+
+
+
+>
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@id/alarm_status" android:layout_marginTop="-4.0px" android:singleLine="true" android:ellipsize="none" android:layout_gravity="top|left|center" android:textAppearance="?textAppearanceMedium" android:textSize="28.0px" android:textColor="#ffffffff" android:drawablePadding="12.0px"
+
+
+
+
+ />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@id/auto_answer" android:layout_marginTop="-4.0px" android:layout_marginLeft="68.0px" android:singleLine="true" android:ellipsize="none" android:layout_gravity="top|left|center" android:textAppearance="?textAppearanceMedium" android:textSize="28.0px" android:textColor="#ffffffff" android:drawablePadding="12.0px"
+
+
+
+
+
+ />
+
+
+
+    </LinearLayout>
+
+
+
+    <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@id/Flayout_0_knob" android:layout_gravity="top|left|center"
+
+
+>
+        <ImageView android:layout_width="159.0px" android:layout_height="159.0px" android:id="@id/imageView_0_knob_bg_pressed" android:layout_marginTop="30.0px" android:layout_marginLeft="0.0px" android:layout_gravity="top|left|center" android:src="@drawable/icon_bg_6knob_pressed"
+
+
+
+
+ />
+        <ImageView android:layout_width="86.0px" android:layout_height="86.0px" android:id="@id/imageView_0_knob" android:layout_marginTop="72.0px" android:layout_marginLeft="42.0px" android:layout_gravity="top|left|center" android:src="@drawable/shortcut_s_icon58"
+
+
+
+
+ />
+        <ImageView android:layout_width="159.0px" android:layout_height="159.0px" android:id="@id/imageView_0_knob_bg_nor" android:layout_marginTop="30.0px" android:layout_marginLeft="0.0px" android:layout_gravity="top|left|center" android:src="@drawable/icon_bg_6knob_nor"
+
+
+
+
+ />
+
+        <TextView android:layout_width="wrap_content" android:layout_height="58.0px" android:background="@drawable/bg_6knob_event_num" android:id="@id/textView_0knob_missed_number" android:layout_marginTop="18.0px" android:layout_gravity="top|right|center" android:textSize="36.0px" android:textColor="#fff" android:visibility="visible" android:gravity="center" android:paddingTop="0.0px" android:paddingBottom="5.0px" android:layout_marginRight="34.0px"
+
+
+
+
+
+
+
+
+ />
+    </FrameLayout>
+
+
+
+    <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@id/Flayout_1_knob" android:layout_gravity="top|left|center"
+
+
+>
+        <ImageView android:layout_width="159.0px" android:layout_height="159.0px" android:id="@id/imageView_l_knob_bg_pressed" android:layout_marginTop="30.0px" android:layout_marginLeft="0.0px" android:layout_gravity="top|left|center" android:src="@drawable/icon_bg_6knob_pressed"
+
+
+
+
+ />
+        <ImageView android:layout_width="86.0px" android:layout_height="86.0px" android:id="@id/imageView_1_knob" android:layout_marginTop="72.0px" android:layout_marginLeft="42.0px" android:layout_gravity="top|left|center" android:src="@drawable/shortcut_s_icon28"
+
+
+
+
+ />
+        <ImageView android:layout_width="159.0px" android:layout_height="159.0px" android:id="@id/imageView_l_knob_bg_nor" android:layout_marginTop="30.0px" android:layout_marginLeft="0.0px" android:layout_gravity="top|left|center" android:src="@drawable/icon_bg_6knob_nor"
+
+
+
+
+ />
+
+        <TextView android:layout_width="wrap_content" android:layout_height="58.0px" android:background="@drawable/bg_6knob_event_num" android:id="@id/textView_1knob_missed_number" android:layout_marginTop="18.0px" android:layout_marginLeft="34.0px" android:layout_gravity="top|left|center" android:textSize="36.0px" android:textColor="#fff" android:visibility="visible" android:gravity="center" android:paddingTop="0.0px" android:paddingBottom="5.0px"
+
+
+
+
+
+
+
+
+ />
+    </FrameLayout>
+
+
+
+
+    <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@id/Flayout_2_knob" android:layout_gravity="top|left|center"
+
+
+>
+        <ImageView android:layout_width="159.0px" android:layout_height="159.0px" android:id="@id/imageView_2_knob_bg_pressed" android:layout_marginTop="30.0px" android:layout_marginLeft="0.0px" android:layout_gravity="top|left|center" android:src="@drawable/icon_bg_6knob_pressed"
+
+
+
+
+ />
+        <ImageView android:layout_width="86.0px" android:layout_height="86.0px" android:id="@id/imageView_2_knob" android:layout_marginTop="72.0px" android:layout_marginLeft="42.0px" android:layout_gravity="top|left|center" android:src="@drawable/shortcut_s_icon37"
+
+
+
+
+ />
+        <ImageView android:layout_width="159.0px" android:layout_height="159.0px" android:id="@id/imageView_2_knob_bg_nor" android:layout_marginTop="30.0px" android:layout_marginLeft="0.0px" android:layout_gravity="top|left|center" android:src="@drawable/icon_bg_6knob_nor"
+
+
+
+
+ />
+
+        <TextView android:layout_width="wrap_content" android:layout_height="58.0px" android:background="@drawable/bg_6knob_event_num" android:id="@id/textView_2knob_missed_number" android:layout_marginTop="18.0px" android:layout_marginLeft="34.0px" android:layout_gravity="top|left|center" android:textSize="36.0px" android:textColor="#fff" android:visibility="visible" android:gravity="center" android:paddingTop="0.0px" android:paddingBottom="5.0px"
+
+
+
+
+
+
+
+
+ />
+    </FrameLayout>
+
+
+
+    <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@id/Flayout_3_knob" android:layout_gravity="top|left|center"
+
+
+>
+        <ImageView android:layout_width="159.0px" android:layout_height="159.0px" android:id="@id/imageView_3_knob_bg_pressed" android:layout_marginTop="30.0px" android:layout_marginLeft="0.0px" android:layout_gravity="top|left|center" android:src="@drawable/icon_bg_6knob_pressed"
+
+
+
+
+ />
+        <ImageView android:layout_width="86.0px" android:layout_height="86.0px" android:id="@id/imageView_3_knob" android:layout_marginTop="72.0px" android:layout_marginLeft="42.0px" android:layout_gravity="top|left|center" android:src="@drawable/shortcut_s_icon38"
+
+
+
+
+ />
+        <ImageView android:layout_width="159.0px" android:layout_height="159.0px" android:id="@id/imageView_3_knob_bg_nor" android:layout_marginTop="30.0px" android:layout_marginLeft="0.0px" android:layout_gravity="top|left|center" android:src="@drawable/icon_bg_6knob_nor"
+
+
+
+
+ />
+
+        <TextView android:layout_width="wrap_content" android:layout_height="58.0px" android:background="@drawable/bg_6knob_event_num" android:id="@id/textView_3knob_missed_number" android:layout_marginTop="18.0px" android:layout_marginLeft="34.0px" android:layout_gravity="top|left|center" android:textSize="36.0px" android:textColor="#fff" android:visibility="visible" android:gravity="center" android:paddingTop="0.0px" android:paddingBottom="5.0px"
+
+
+
+
+
+
+
+
+ />
+    </FrameLayout>
+
+
+
+    <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@id/Flayout_4_knob" android:layout_gravity="top|left|center"
+
+
+>
+        <ImageView android:layout_width="159.0px" android:layout_height="159.0px" android:id="@id/imageView_4_knob_bg_pressed" android:layout_marginTop="30.0px" android:layout_marginLeft="0.0px" android:layout_gravity="top|left|center" android:src="@drawable/icon_bg_6knob_pressed"
+
+
+
+
+ />
+        <ImageView android:layout_width="86.0px" android:layout_height="86.0px" android:id="@id/imageView_4_knob" android:layout_marginTop="72.0px" android:layout_marginLeft="42.0px" android:layout_gravity="top|left|center" android:src="@drawable/shortcut_s_icon03"
+
+
+
+
+ />
+        <ImageView android:layout_width="159.0px" android:layout_height="159.0px" android:id="@id/imageView_4_knob_bg_nor" android:layout_marginTop="30.0px" android:layout_marginLeft="0.0px" android:layout_gravity="top|left|center" android:src="@drawable/icon_bg_6knob_nor"
+
+
+
+
+ />
+
+        <TextView android:layout_width="wrap_content" android:layout_height="58.0px" android:background="@drawable/bg_6knob_event_num" android:id="@id/textView_4knob_missed_number" android:layout_marginTop="18.0px" android:layout_gravity="top|right|center" android:textSize="36.0px" android:textColor="#fff" android:visibility="visible" android:gravity="center" android:paddingTop="0.0px" android:paddingBottom="5.0px" android:layout_marginRight="34.0px"
+
+
+
+
+
+
+
+
+ />
+    </FrameLayout>
+
+
+
+    <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@id/Flayout_home_knob" android:layout_gravity="top|left|center"
+
+
+>
+        <ImageView android:layout_width="159.0px" android:layout_height="159.0px" android:id="@id/imageView_home_knob_bg_pressed" android:layout_marginTop="0.0px" android:layout_marginLeft="0.0px" android:layout_gravity="top|left|center" android:src="@drawable/icon_bg_6knob_pressed"
+
+
+
+
+ />
+        <ImageView android:layout_width="86.0px" android:layout_height="86.0px" android:id="@id/imageView_home_knob" android:layout_marginTop="42.0px" android:layout_marginLeft="42.0px" android:layout_gravity="top|left|center" android:src="@drawable/icon_6knob_home"
+
+
+
+
+ />
+        <ImageView android:layout_width="159.0px" android:layout_height="159.0px" android:id="@id/imageView_home_knob_bg_nor" android:layout_marginTop="0.0px" android:layout_marginLeft="0.0px" android:layout_gravity="top|left|center" android:src="@drawable/icon_bg_6knob_nor"
+
+
+
+
+ />
+    </FrameLayout>
+
+
+    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@id/missed_comm_floating_knob" android:scaleType="center" android:visibility="gone" android:layout_alignParentBottom="true"
+
+
+ />
+
+
+
+
+
+    <Button android:layout_width="wrap_content" android:layout_height="82.0px" android:background="@drawable/sky_emergency_call_6knob_btn" android:id="@id/emergencyCallButton" android:layout_marginTop="1042.0px" android:textSize="26.0px" android:textColor="#ffffffff" android:layout_centerHorizontal="true" android:drawablePadding="8.0px" android:paddingTop="15.0px" android:paddingLeft="20.0px" android:paddingRight="20.0px"
+
+
+
+
+
+
+
+
+
+
+ />
+
+
+
+    <com.android.internal.widget.SKYBGPControlView android:layout_width="fill_parent" android:layout_height="122.0dip" android:id="@id/bgp_controlview" android:visibility="invisible" android:layout_marginBottom="422.0dip"
+
+
+
+
+
+ />
+</RelativeLayout>
