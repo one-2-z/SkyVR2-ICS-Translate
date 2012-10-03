@@ -506,7 +506,9 @@
     <string name="str_alarm_no_in_call">Тихо</string>
     <string name="str_alarm_low_bell_in_call">Низкая громкость</string>
     <string name="str_alarm_vibrate_once_in_call">Вибрация</string>
-    <string name="str_alarm_convert_mms">Alarm Convert MMS</string>
+    <string name="str_alarm_convert_mms">Оповещение преобразования 
+    
+    в MMS</string>
     <string name="str_alert_type">+ %s</string>
     <string name="setting_limit_off">Нет</string>
     <string name="setting_limit_title_onoff">Настройки ограничения</string>
@@ -629,7 +631,7 @@
     <string name="str_send">Отправить</string>
     <string name="str_send_error_memoryfull">Не удалось отправить сообщение, так как заполнена память.</string>
     <string name="str_sending_message">Отправка сообщения.</string>
-    <string name="str_set_msg_lock">Сообщение заблокировано</string>
+    <string name="str_set_msg_lock">Блокировка сообщений</string>
     <string name="str_set_reserve_msg">Сообщение зарезервировано.</string>
     <string name="str_sms_only_mode">MMS отключен. Можно отправить только SMS.</string>
     <string name="str_sorting_message">Сортировка сообщений.</string>
