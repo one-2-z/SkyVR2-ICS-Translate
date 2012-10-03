@@ -1462,10 +1462,10 @@ MMM dd"</string>
     <string name="sky_hold_gesture_slide_zero">"Добавить жест: Настройки > Экран > Локскрин > Жесты > Гид по жестам"</string>
     <string name="gesture_category_unlock">Разблокировать</string>
     <string name="gesture_category_applications">Приложения</string>
-    <string name="string_6knob_full_charge_message_01">Зарядка завершена.</string>
-    <string name="string_6knob_full_charge_message_02">Отключите зарядное устройство.</string>
+    <string name="string_6knob_full_charge_message_01">Зарядка завершена</string>
+    <string name="string_6knob_full_charge_message_02">Отключите зарядное</string>
     <string name="sky_6knob_hold_time_format">E, MMM dd</string>
-    <string name="sky_missed_comm_guide">Перетащите значек сюда</string>
+    <string name="sky_missed_comm_guide">Тащите значек сюда</string>
     <string name="string_6knob_batt_percent">%</string>
     <string name="string_6knob_batt_full_text">Полная</string>
     <string name="string_6knob_batt_full_percent">100%</string>
