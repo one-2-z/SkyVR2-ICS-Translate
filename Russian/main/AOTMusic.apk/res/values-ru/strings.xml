@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Музыка AOT</string>
+    <string name="skyapp_name">Музыка</string>
+    <string name="Confirm">Подтвердить</string>
+    <string name="Cancel">Отмена</string>
+    <string name="durationformatshort">%2$d:%5$02d</string>
+    <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
+    <string name="popupCantOpenDuringCall">Невозможно запустить миниокно во время звонка.</string>
+    <string name="mini_music_will_be_ended_when_launching_camera">мини Музыка будет выключена при запуске камеры.</string>
+    <string name="while_the_camera_is_running_mini_music_is_unavailable">мини Музыка недоступна пока запущена камера.</string>
+</resources>
