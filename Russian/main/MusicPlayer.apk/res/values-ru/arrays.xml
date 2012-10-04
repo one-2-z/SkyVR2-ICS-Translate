@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="PropertyCols">
+        <item>PropertyName</item>
+        <item>PropertyValue</item>
+    </string-array>
+    <string-array name="select_dialog_autostop">
+        <item>нет</item>
+        <item>через 10 минут</item>
+        <item>через 20 минут</item>
+        <item>через 30 минут</item>
+        <item>через 1 час</item>
+    </string-array>
+    <string-array name="drmserverlist">
+        <item>OnlineStore server</item>
+        <item>Test server</item>
+        <item>Tally server</item>
+    </string-array>
+</resources>
