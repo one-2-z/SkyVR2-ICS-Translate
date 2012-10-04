@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gesture_recog_use_speakerphone_entries">
+        <item>Не использовать динамик телефона</item>
+        <item>Использовать динамик телефона</item>
+    </string-array>
+    <string-array name="gesture_recog_use_speakerphone_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="gesture_recog_join_skyme_entries">
+        <item>Использовать загрузку файлов</item>
+        <item>Не использовать загрузку файло</item>
+    </string-array>
+    <string-array name="gesture_recog_join_skyme_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>

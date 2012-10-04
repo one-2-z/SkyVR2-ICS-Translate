@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Привет Мир, Распознавание движений!</string>
+    <string name="app_name">Настройка движений</string>
+    <string name="gesture_recog_title">Настройки распознавания движений</string>
+    <string name="gesture_recog">Распознавание движений</string>
+    <string name="gesture_recog_summary_on">Включить</string>
+    <string name="gesture_recog_summary_off">Выключить</string>
+    <string name="gesture_recog_help_title">Руководство по распознаванию движения</string>
+    <string name="gesture_recog_help_summary">Посмотреть руководство по распознаванию движения</string>
+    <string name="gesture_recog_advanced">Подробно</string>
+    <string name="gesture_recog_music">Музыка</string>
+    <string name="gesture_recog_gal">Галерея</string>
+    <string name="gesture_recog_sms">Сообщения</string>
+    <string name="gesture_recog_call_recv">Получение голосового/видео звонка</string>
+    <string name="gesture_recog_use_speakerphone">Использование динамика</string>
+    <string name="gesture_recog_use_speakerphone_summary_on">Использовать динамик при приеме голосового/видео вызова</string>
+    <string name="gesture_recog_use_speakerphone_summary_off">Не использовать динамик при приеме голосового/видео вызова</string>
+    <string name="gesture_recog_join_skyme">Загрузка файлов</string>
+    <string name="gesture_recog_join_skyme_summary_on">Использовать распознавание движений при загрузке файлов</string>
+    <string name="gesture_recog_join_skyme_summary_off">Не использовать распознавание движений при загрузке файлов</string>
+    <string name="gesture_recog_warn_msg">Вы должны выбрать хотя одно приложение</string>
+</resources>
