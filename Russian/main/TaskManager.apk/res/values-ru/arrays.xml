@@ -9,11 +9,11 @@
     </string-array>
     <string-array name="view_type_protect_popup">
         <item>Название</item>
-        <item>Запущенный</item>
+        <item>Запущенные</item>
     </string-array>
     <string-array name="action_running_list">
-        <item>Запущенный</item>
-        <item>Системный</item>
+        <item>Запущенные</item>
+        <item>Системные</item>
         <item>Защита</item>
     </string-array>
 </resources>
