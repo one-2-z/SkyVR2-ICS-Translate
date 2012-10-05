@@ -2006,9 +2006,8 @@
     <string name="tips_pcmode_tip2">"Управление файлами установленными на ПК инструментами.
 Управление файлами зависит от установленных инструментов на ПК."</string>
     <string name="usb_mtp_summary_lgu">Импорт/экспорт медиа файлов из внутренней памяти и SD-карты на ПК. Возможна синхронизация с Window Media Player.</string>
-<string name="dialog_mtp_tips">"Media device (MTP), you may have to install additional programs suitable for your PC OS.
-For further information, touch Tips button underneath ‘USB connection settings’."</string>
-    <string name="dialog_ptp_tips">"To use Camera (PTP), you may have to install additional programs suitable for your PC OS.
+<string name="dialog_mtp_tips">"Медиа устройство (MTP), вы должны установить дополнительный софт для ОС вашего ПК, нажмите кнопку Подксказки внизу настроек подключения по USB."</string>
+    <string name="dialog_ptp_tips">"Что бы использовать камеру (PTP), вы должны установить дополнительный софт для ОС вашего ПК.
 For further information, touch Tips button underneath ‘USB connection settings’."</string>
     <string name="dialog_do_not_show_again">Не показывать снова</string>
     <item type="string" name="APKTOOL_DUMMY_063d">false</item>
