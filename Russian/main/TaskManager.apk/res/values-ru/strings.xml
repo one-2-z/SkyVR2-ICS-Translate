@@ -9,7 +9,7 @@
     <string name="close_app">Закрыть</string>
     <string name="close_all_app">Закрыть все</string>
     <string name="close_forced">Завершить</string>
-    <string name="close_normal">Закрыть</string>
+    <string name="close_normal">Закр.</string>
     <string name="ram">ОЗУ</string>
     <string name="cpu">ЦП</string>
     <string name="internal_memory">Внутренняя память</string>
