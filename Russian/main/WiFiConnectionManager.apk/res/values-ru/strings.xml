@@ -1139,7 +1139,7 @@
     <string name="wifi_nointernet_ap_title">Отключать плохие точки доступа</string>
     <string name="wifi_nointernet_ap_summary">Если нет доступа в Интернет, точка доступа отключается автоматически.</string>
     <string name="wifi_connect_config">Подключить</string>
-    <string name="wifi_disconnect_message">Вы действительно хотите отключть точку достпа?</string>
+    <string name="wifi_disconnect_message">Вы действительно хотите отключить точку доступа?</string>
     <string name="wifi_disconnect">Отключить</string>
     <string name="latitude">широта</string>
     <string name="longitude">долгота</string>
