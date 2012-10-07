@@ -124,6 +124,10 @@
     <string name="gps_notification_searching_text">Поиск GPS</string>
     <string name="gps_notification_found_text">Местоположение установлено по GPS</string>
     <string name="accessibility_clear_all">Очистить все уведомления.</string>
+    <string name="title_aot">mini Окна</string>
+    <string name="title_voice">Smart Voice</string>
+    <string name="recent_deleteall">Удалить все</string>
+    <string name="recent_taskmanager">Task Manager</string>
     <string name="config_carrier">skt</string>
     <string name="easy_setting">Быстрые настройки</string>
     <string name="easy_setting_wifi_setting">Wi-Fi</string>
@@ -164,6 +168,8 @@
     <string name="easy_setting_bigfont_setting">Большой шрифт</string>
     <string name="quick_setting_font_link">Шрифт</string>
     <string name="quick_setting_nfc_link">NFC</string>
+    <string name="easy_setting_secret_setting">"Secret
+View"</string>
     <string name="Charging_error_title">Зарядка приостановлена.</string>
     <string name="Charging_error_msg_temp">Температура зарядки вне диапазона. Пожалуйста подождите.</string>
     <string name="Charging_error_msg_err">Ошибка во время зарядки. Отключите зарядное устройство.</string>
