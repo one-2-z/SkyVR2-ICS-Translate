@@ -1065,7 +1065,7 @@
     <string name="wifi_disconnecting_toast">Отключение.</string>
     <string name="wifi_no_usim">USIM-карта не подключена. Попробуйте позже.</string>
     <string name="confirm">Ок</string>
-    <string name="wifi_attempt_connect">Попытаться подключиться к %s.</string>
+    <string name="wifi_attempt_connect">Попытка подключения к %s</string>
     <string name="wifi_status_connected">Подключен</string>
     <string name="wifi_turn_on">Включить Wi-Fi.</string>
     <string name="wifi_turn_on_2">Включить Wi-Fi.</string>
