@@ -153,15 +153,15 @@ QSizzle and QRumble are controlled only with normal mode."</string>
     <string name="app_name">Настройки</string>
     <string name="current_version">0.0.0.1</string>
     <string name="sky_setting_title">Настройки</string>
-    <string name="sky_setting_menu_text1">Мелодии
-Громкость</string>
+    <string name="sky_setting_menu_text1">"Мелодии
+Громкость"</string>
     <string name="sky_setting_menu_text2">Звуки</string>
     <string name="sky_setting_menu_text3">Экран</string>
-    <string name="sky_setting_menu_text4">Настройка
-приложений</string>
+    <string name="sky_setting_menu_text4">"Настройка
+приложений"</string>
     <string name="sky_setting_menu_text5">Приложения</string>
-    <string name="sky_setting_menu_text6">Системные
-настройки</string>
+    <string name="sky_setting_menu_text6">"Системные
+настройки"</string>
     <string name="sky_setting_menu_not_installed">설치 후 사용해주세요</string>
     <string name="lock_title">Блокировать</string>
     <string name="lock_title1">Заблокирвоать телефон</string>
