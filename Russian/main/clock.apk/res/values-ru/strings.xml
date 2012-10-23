@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Инструменты</string>
+    <string name="app_name">Часы</string>
     <string name="app_not_avail">Приложение не установлено!</string>
     <string name="app_avail_storage">Нет свободного места</string>
     <string name="app_name_worldtime">Мировое время</string>
